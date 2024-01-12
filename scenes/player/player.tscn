@@ -1,0 +1,255 @@
+[gd_scene load_steps=14 format=3 uid="uid://dydv8osirnhe0"]
+
+[ext_resource type="Script" path="res://scripts/player/player.gd" id="1_m6ftk"]
+[ext_resource type="Texture2D" uid="uid://cms454srri8k2" path="res://models/crosshair/crosshair001.png" id="2_w1g4e"]
+[ext_resource type="FontFile" uid="uid://c5ft0yj5midcc" path="res://assets/FONTS/GrimoireOfDeath-Regular.ttf" id="3_mc434"]
+[ext_resource type="FontFile" uid="uid://bn1d5xum4ixht" path="res://assets/FONTS/GrimoireOfDeath-Italic.ttf" id="4_47ke0"]
+[ext_resource type="Script" path="res://joystick/virtual_joystick.gd" id="5_x7gd8"]
+[ext_resource type="Texture2D" uid="uid://bm30au8mjfc2f" path="res://joystick/textures/joystick_base_outline.png" id="6_fipcs"]
+[ext_resource type="Texture2D" uid="uid://dt13r06u87fib" path="res://joystick/textures/joystick_tip_arrows.png" id="7_wcdn1"]
+[ext_resource type="Texture2D" uid="uid://ounhvkd5k7er" path="res://assets/ui textures/buttons/Button - PS Circle 2.svg" id="8_c8wh4"]
+[ext_resource type="Texture2D" uid="uid://b7wsmqhvh3r7q" path="res://assets/ui textures/buttons/Button - PS Triangle 2.svg" id="9_exbhl"]
+[ext_resource type="Texture2D" uid="uid://ciybj3064eh08" path="res://assets/ui textures/buttons/Button - PS Square White 1.svg" id="10_da0xl"]
+[ext_resource type="Texture2D" uid="uid://c3bgk3n5xjsj0" path="res://assets/ui textures/buttons/Button - PS Cross 2.svg" id="11_biamx"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_crqpa"]
+radius = 0.45
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_mumfr"]
+radius = 0.45
+height = 0.9
+
+[node name="player" type="CharacterBody3D"]
+collision_layer = 2
+collision_mask = 7
+script = ExtResource("1_m6ftk")
+
+[node name="standing colide_shape" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_crqpa")
+
+[node name="crouch_colide_shape" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.4, 0)
+shape = SubResource("CapsuleShape3D_mumfr")
+
+[node name="head" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.8, 0)
+
+[node name="Camera3D" type="Camera3D" parent="head"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.39)
+keep_aspect = 0
+fov = 60.0
+near = 0.005
+
+[node name="SpotLight3D" type="SpotLight3D" parent="head/Camera3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.39)
+light_energy = 2.0
+spot_range = 14.1774
+spot_angle = 30.9056
+
+[node name="reach" type="RayCast3D" parent="head/Camera3D"]
+target_position = Vector3(0, 0, -4)
+collision_mask = 25
+debug_shape_thickness = 1
+
+[node name="interact" type="RayCast3D" parent="head/Camera3D"]
+target_position = Vector3(0, 0, -3)
+collision_mask = 5
+debug_shape_thickness = 1
+
+[node name="for_ship" type="RayCast3D" parent="head/Camera3D"]
+target_position = Vector3(0, 0, -2.055)
+collision_mask = 32
+
+[node name="TextureRect" type="TextureRect" parent="head/Camera3D"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -32.0
+offset_top = -32.0
+offset_right = 32.0
+offset_bottom = 32.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_vertical = 4
+texture = ExtResource("2_w1g4e")
+metadata/_edit_use_anchors_ = true
+
+[node name="Label" type="Label" parent="head/Camera3D"]
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -236.0
+offset_bottom = -213.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 6
+size_flags_vertical = 6
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("3_mc434")
+theme_override_font_sizes/font_size = 40
+text = "example"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="head/Camera3D"]
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -151.0
+offset_bottom = -2.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 6
+size_flags_vertical = 6
+theme_override_fonts/font = ExtResource("4_47ke0")
+theme_override_font_sizes/font_size = 30
+text = "example"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Control" type="Control" parent="head/Camera3D"]
+layout_mode = 3
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -1080.0
+offset_right = 960.0
+grow_vertical = 0
+size_flags_vertical = 3
+
+[node name="Virtual Joystick" type="Control" parent="head/Camera3D/Control"]
+clip_contents = true
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -603.0
+offset_right = 645.0
+grow_vertical = 0
+script = ExtResource("5_x7gd8")
+action_left = "left"
+action_right = "right"
+action_up = "up"
+action_down = "down"
+
+[node name="Base" type="TextureRect" parent="head/Camera3D/Control/Virtual Joystick"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -100.0
+offset_top = -100.0
+offset_right = 100.0
+offset_bottom = 100.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(100, 100)
+mouse_force_pass_scroll_events = false
+texture = ExtResource("6_fipcs")
+
+[node name="Tip" type="TextureRect" parent="head/Camera3D/Control/Virtual Joystick/Base"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -50.0
+offset_top = -50.0
+offset_right = 50.0
+offset_bottom = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(50, 50)
+texture = ExtResource("7_wcdn1")
+expand_mode = 3
+stretch_mode = 5
+
+[node name="Timer" type="Timer" parent="head/Camera3D"]
+wait_time = 2.0
+one_shot = true
+
+[node name="red_circle_bt" type="Button" parent="head/Camera3D"]
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -265.0
+offset_top = 515.0
+offset_right = -137.0
+offset_bottom = -437.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon = ExtResource("8_c8wh4")
+flat = true
+icon_alignment = 1
+
+[node name="green_tri_bt" type="Button" parent="head/Camera3D"]
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -266.0
+offset_top = 711.0
+offset_right = -134.0
+offset_bottom = -241.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon = ExtResource("9_exbhl")
+flat = true
+icon_alignment = 1
+
+[node name="white_square_bt" type="Button" parent="head/Camera3D"]
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -445.0
+offset_top = 748.0
+offset_right = -317.0
+offset_bottom = -178.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon = ExtResource("10_da0xl")
+flat = true
+icon_alignment = 1
+
+[node name="bx_bt" type="Button" parent="head/Camera3D"]
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -442.0
+offset_top = 573.0
+offset_right = -314.0
+offset_bottom = -353.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon = ExtResource("11_biamx")
+flat = true
+icon_alignment = 1
+
+[node name="hand" type="Node3D" parent="head"]
+transform = Transform3D(-0.0871558, 0, 0.996195, 0, 1, 0, -0.996195, 0, -0.0871558, 0.158527, -0.279, -0.176286)
+
+[node name="crouch_raycast" type="RayCast3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.880893, 0)
+target_position = Vector3(0, 1.3, 0)
+
+[connection signal="timeout" from="head/Camera3D/Timer" to="." method="_on_timer_timeout"]

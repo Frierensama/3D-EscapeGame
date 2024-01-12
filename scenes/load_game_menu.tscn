@@ -1,0 +1,51 @@
+[gd_scene load_steps=3 format=3 uid="uid://fsnchabcr0j7"]
+
+[ext_resource type="Script" path="res://scripts/load_game_menu.gd" id="1_n0you"]
+[ext_resource type="FontFile" uid="uid://c5ft0yj5midcc" path="res://assets/FONTS/GrimoireOfDeath-Regular.ttf" id="2_mn3qr"]
+
+[node name="loadGameMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_n0you")
+
+[node name="TextureRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.176471, 0.176471, 0.176471, 1)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -150.0
+offset_top = -120.0
+offset_right = 150.0
+offset_bottom = 120.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Save 01" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_mn3qr")
+theme_override_font_sizes/font_size = 80
+text = "save 01"
+
+[node name="save 02" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_mn3qr")
+theme_override_font_sizes/font_size = 80
+text = "Save 02"
+
+[connection signal="pressed" from="VBoxContainer/Save 01" to="." method="_on_save_01_pressed"]
+[connection signal="pressed" from="VBoxContainer/save 02" to="." method="_on_save_02_pressed"]

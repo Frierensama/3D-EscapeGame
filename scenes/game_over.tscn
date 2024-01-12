@@ -1,0 +1,62 @@
+[gd_scene load_steps=4 format=3 uid="uid://c5wrv835q5m67"]
+
+[ext_resource type="FontFile" uid="uid://bn1d5xum4ixht" path="res://assets/FONTS/GrimoireOfDeath-Italic.ttf" id="1_0w2i7"]
+[ext_resource type="Script" path="res://scripts/game_over.gd" id="1_v41e1"]
+[ext_resource type="FontFile" uid="uid://c5ft0yj5midcc" path="res://assets/FONTS/GrimoireOfDeath-Regular.ttf" id="2_hibkc"]
+
+[node name="Game_over" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_v41e1")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.0980392, 0.0980392, 0.0980392, 1)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -520.0
+offset_top = -50.0
+offset_right = 520.0
+offset_bottom = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="You Have Escaped" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("1_0w2i7")
+theme_override_font_sizes/font_size = 100
+text = " you  have  escaped  the  house"
+
+[node name="main_menu" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -177.0
+offset_top = -58.0
+offset_right = 177.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.517647, 0.517647, 0.517647, 1)
+theme_override_fonts/font = ExtResource("2_hibkc")
+theme_override_font_sizes/font_size = 50
+text = "Return to Main menu"
+
+[connection signal="pressed" from="main_menu" to="." method="_on_main_menu_pressed"]

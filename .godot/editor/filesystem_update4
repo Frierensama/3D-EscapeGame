@@ -1,0 +1,10 @@
+res://scenes/Main House/house.tscn
+res://scenes/player/player.tscn
+res://scenes/main_door/main_door.tscn
+res://scenes/mainmenu.tscn
+res://scenes/pausemenu.tscn
+res://scenes/enemy/robert_clown.tscn
+res://scenes/death_scene/death_scene.tscn
+res://scenes/Main House/house-2.tscn
+res://scenes/load_game_menu.tscn
+res://scenes/game_over.tscn

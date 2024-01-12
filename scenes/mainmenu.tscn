@@ -1,0 +1,287 @@
+[gd_scene load_steps=3 format=3 uid="uid://bcur7imgcxsdn"]
+
+[ext_resource type="Script" path="res://scripts/mainmenu.gd" id="1_qwo0c"]
+[ext_resource type="FontFile" uid="uid://c5ft0yj5midcc" path="res://assets/FONTS/GrimoireOfDeath-Regular.ttf" id="2_fxwjj"]
+
+[node name="mainmenu" type="Control"]
+process_mode = 3
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_qwo0c")
+
+[node name="menu" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -91.0
+offset_top = -122.0
+offset_right = 91.0
+offset_bottom = 122.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="NewGame" type="Button" parent="menu"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+text = "New Game"
+icon_alignment = 1
+expand_icon = true
+
+[node name="LoadGame" type="Button" parent="menu"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+text = "Load Game"
+
+[node name="options" type="Button" parent="menu"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+text = "Options"
+
+[node name="exit" type="Button" parent="menu"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+text = "Exit"
+
+[node name="options" type="Control" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="BackfromOptions" type="Button" parent="options"]
+z_index = 3
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -26.5
+offset_top = -31.0
+offset_right = 26.5
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = " back "
+
+[node name="VBoxContainer" type="VBoxContainer" parent="options"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -94.0
+offset_top = -70.0
+offset_right = 94.0
+offset_bottom = 70.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="graphics" type="Button" parent="options/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 60
+text = "Graphics"
+
+[node name="Audio" type="Button" parent="options/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 60
+text = "Audio"
+
+[node name="graphics" type="Control" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="BackfromGraphics" type="Button" parent="graphics"]
+z_index = 3
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -72.0
+offset_top = -91.0
+offset_right = 72.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 60
+text = "back"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="graphics"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -139.5
+offset_top = -113.5
+offset_right = 139.5
+offset_bottom = 113.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Labels" type="VBoxContainer" parent="graphics/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 4
+
+[node name="FullScreen" type="Label" parent="graphics/HBoxContainer/Labels"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = "Fullsceen"
+
+[node name="VSync" type="Label" parent="graphics/HBoxContainer/Labels"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = "vsync"
+
+[node name="Checks" type="VBoxContainer" parent="graphics/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 70
+alignment = 1
+
+[node name="FullScreen" type="CheckBox" parent="graphics/HBoxContainer/Checks"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+icon_alignment = 1
+
+[node name="VSync" type="CheckBox" parent="graphics/HBoxContainer/Checks"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 50
+icon_alignment = 1
+
+[node name="Audio" type="Control" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Audio"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -346.0
+offset_top = -146.5
+offset_right = 346.0
+offset_bottom = 146.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Labels" type="VBoxContainer" parent="Audio/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="FMaster" type="Label" parent="Audio/HBoxContainer/Labels"]
+layout_mode = 2
+size_flags_vertical = 6
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = "Master
+"
+
+[node name="Music" type="Label" parent="Audio/HBoxContainer/Labels"]
+layout_mode = 2
+size_flags_vertical = 6
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = "music
+"
+
+[node name="Sound Fx" type="Label" parent="Audio/HBoxContainer/Labels"]
+layout_mode = 2
+size_flags_vertical = 6
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 70
+text = "sound fx
+"
+
+[node name="slider" type="VBoxContainer" parent="Audio/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme_override_constants/separation = 70
+
+[node name="master" type="HSlider" parent="Audio/HBoxContainer/slider"]
+layout_mode = 2
+size_flags_vertical = 6
+
+[node name="music" type="HSlider" parent="Audio/HBoxContainer/slider"]
+layout_mode = 2
+size_flags_vertical = 6
+
+[node name="sound fx" type="HSlider" parent="Audio/HBoxContainer/slider"]
+layout_mode = 2
+size_flags_vertical = 6
+
+[node name="backfromAudio" type="Button" parent="Audio"]
+z_index = 3
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -4.0
+offset_top = -8.0
+offset_right = 4.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("2_fxwjj")
+theme_override_font_sizes/font_size = 60
+text = " back "
+
+[connection signal="pressed" from="menu/NewGame" to="." method="_on_new_game_pressed"]
+[connection signal="pressed" from="menu/LoadGame" to="." method="_on_load_game_pressed"]
+[connection signal="pressed" from="menu/options" to="." method="_on_options_pressed"]
+[connection signal="pressed" from="menu/exit" to="." method="_on_exit_pressed"]
+[connection signal="pressed" from="options/BackfromOptions" to="." method="_on_backfrom_options_pressed"]
+[connection signal="pressed" from="options/VBoxContainer/graphics" to="." method="_on_graphics_pressed"]
+[connection signal="pressed" from="options/VBoxContainer/Audio" to="." method="_on_audio_pressed"]
+[connection signal="pressed" from="graphics/BackfromGraphics" to="." method="_on_backfrom_graphics_pressed"]
+[connection signal="toggled" from="graphics/HBoxContainer/Checks/FullScreen" to="." method="_on_full_screen_toggled"]
+[connection signal="toggled" from="graphics/HBoxContainer/Checks/VSync" to="." method="_on_v_sync_toggled"]
+[connection signal="value_changed" from="Audio/HBoxContainer/slider/master" to="." method="_on_master_value_changed"]
+[connection signal="value_changed" from="Audio/HBoxContainer/slider/music" to="." method="_on_music_value_changed"]
+[connection signal="value_changed" from="Audio/HBoxContainer/slider/sound fx" to="." method="_on_sound_fx_value_changed"]
+[connection signal="pressed" from="Audio/backfromAudio" to="." method="_on_backfrom_audio_pressed"]
