@@ -10,11 +10,10 @@ config_version=5
 
 [application]
 
-config/name="empty test"
+config/name="Open Project"
 run/main_scene="res://scenes/mainmenu.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 boot_splash/bg_color=Color(0, 0, 0, 1)
-config/icon="res://assets/wallpapers/icon.png"
 
 [display]
 

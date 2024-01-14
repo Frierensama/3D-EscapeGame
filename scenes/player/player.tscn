@@ -114,6 +114,7 @@ horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="Control" type="Control" parent="head/Camera3D"]
+visible = false
 layout_mode = 3
 anchors_preset = 2
 anchor_top = 1.0
@@ -178,6 +179,7 @@ wait_time = 2.0
 one_shot = true
 
 [node name="red_circle_bt" type="Button" parent="head/Camera3D"]
+visible = false
 anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0
@@ -195,6 +197,7 @@ flat = true
 icon_alignment = 1
 
 [node name="green_tri_bt" type="Button" parent="head/Camera3D"]
+visible = false
 anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0
@@ -212,6 +215,7 @@ flat = true
 icon_alignment = 1
 
 [node name="white_square_bt" type="Button" parent="head/Camera3D"]
+visible = false
 anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0
@@ -229,6 +233,7 @@ flat = true
 icon_alignment = 1
 
 [node name="bx_bt" type="Button" parent="head/Camera3D"]
+visible = false
 anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0

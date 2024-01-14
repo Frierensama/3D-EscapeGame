@@ -1,5 +1,5 @@
 bdbec74c6e5bd72edee867077d70896c
-::res://::1705220140
+::res://::1705220419
 default_bus_layout.tres::AudioBusLayout::3603026363951262147::1702903248::0::1::::<><>::
 default_env.tres::Environment::-1::1702903244::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1702903244::0::1::::<><>::
@@ -25,7 +25,7 @@ THIRDPARTY.txt::TextFile::-1::1702903242::0::1::::<><>::
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1703944506
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1703944506
 ::res://addons/godot-jolt/windows/::1703944506
-::res://assets/::1703944506
+::res://assets/::1705220160
 ::res://assets/circle/::1703944506
 ::res://assets/FONTS/::1703944506
 GrimoireOfDeath-Italic.ttf::FontFile::3352786436905984237::1702903244::1702903244::1::::<><>::
@@ -38,9 +38,6 @@ Button - PS Cross 2.svg::CompressedTexture2D::6740577019031251147::1702903244::1
 Button - PS Square White 1.svg::CompressedTexture2D::5383975482447138847::1702903244::1702903244::1::::<><>::
 Button - PS Square White 2.png::CompressedTexture2D::4110824357759066086::1702903244::1702903244::1::::<><>::
 Button - PS Triangle 2.svg::CompressedTexture2D::4678995178247960260::1702903244::1702903244::1::::<><>::
-::res://assets/wallpapers/::1703944506
-icon.png::CompressedTexture2D::292794353583085135::1702903244::1702903244::1::::<><>::
-splash.png::CompressedTexture2D::6956723407727157212::1702903244::1702903244::1::::<><>::
 ::res://joystick/::1703944506
 virtual_joystick.gd::GDScript::-1::1702903244::0::1::::VirtualJoystick<>Control<>::
 virtual_joystick.tscn::PackedScene::8038149555967335895::1702903244::0::1::::<><>::res://joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://joystick/textures/joystick_tip_arrows.png
