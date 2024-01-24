@@ -1,266 +1,263 @@
 bdbec74c6e5bd72edee867077d70896c
-::res://::1705331515
-default_bus_layout.tres::AudioBusLayout::3603026363951262147::1702903248::0::1::::<><>::
-default_env.tres::Environment::-1::1702903244::0::1::::<><>::
-export_presets.cfg::TextFile::-1::1702903244::0::1::::<><>::
-icon.png::CompressedTexture2D::4575083659561442673::1702903248::1702903248::1::::<><>::
-icon.svg::CompressedTexture2D::1148662725987244693::1702903244::1702903244::1::::<><>::
-radial.png::CompressedTexture2D::8879524701228599392::1702903244::1702903248::1::::<><>::
-README.md::TextFile::-1::1705088958::0::1::::<><>::
-::res://addons/::1703944506
-::res://addons/godot-jolt/::1703944506
-godot-jolt.gdextension::GDExtension::-1::1702903244::0::1::::<><>::
-LICENSE.txt::TextFile::-1::1702903242::0::1::::<><>::
-THIRDPARTY.txt::TextFile::-1::1702903242::0::1::::<><>::
-::res://addons/godot-jolt/android/::1703944506
-::res://addons/godot-jolt/ios/::1703944506
-::res://addons/godot-jolt/ios/godot-jolt_ios.framework/::1703944506
-::res://addons/godot-jolt/ios/godot-jolt_ios_editor.framework/::1703944506
-::res://addons/godot-jolt/linux/::1703944506
-::res://addons/godot-jolt/macos/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos.framework/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos.framework/Resources/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos.framework/_CodeSignature/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1703944506
-::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1703944506
-::res://addons/godot-jolt/windows/::1703944506
-::res://assets/::1705220160
-::res://assets/circle/::1703944506
-::res://assets/FONTS/::1703944506
-GrimoireOfDeath-Italic.ttf::FontFile::3352786436905984237::1702903244::1702903244::1::::<><>::
-GrimoireOfDeath-Regular.ttf::FontFile::6890028108850717650::1702903244::1702903244::1::::<><>::
-HelpMe.ttf::FontFile::8327868547794909646::1702903244::1702903244::1::::<><>::
-::res://assets/ui textures/::1703944506
-::res://assets/ui textures/buttons/::1703944506
-Button - PS Circle 2.svg::CompressedTexture2D::1024734306092170921::1702903244::1702903244::1::::<><>::
-Button - PS Cross 2.svg::CompressedTexture2D::6740577019031251147::1702903244::1702903244::1::::<><>::
-Button - PS Square White 1.svg::CompressedTexture2D::5383975482447138847::1702903244::1702903244::1::::<><>::
-Button - PS Square White 2.png::CompressedTexture2D::4110824357759066086::1702903244::1702903244::1::::<><>::
-Button - PS Triangle 2.svg::CompressedTexture2D::4678995178247960260::1702903244::1702903244::1::::<><>::
-::res://joystick/::1703944506
-virtual_joystick.gd::GDScript::-1::1702903244::0::1::::VirtualJoystick<>Control<>::
-virtual_joystick.tscn::PackedScene::8038149555967335895::1702903244::0::1::::<><>::res://joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://joystick/textures/joystick_tip_arrows.png
-::res://joystick/textures/::1703944506
-joystick_base_outline.png::CompressedTexture2D::3288008411285325467::1702903244::1702903244::1::::<><>::
-joystick_tip.png::CompressedTexture2D::3132432681801126628::1702903244::1702903244::1::::<><>::
-joystick_tip_arrows.png::CompressedTexture2D::8548255698028078709::1702903244::1702903244::1::::<><>::
-::res://models/::1703944506
-::res://models/basement_room-gate/::1703944506
-::res://models/crosshair/::1703944506
-crosshair001.png::CompressedTexture2D::5654082209002147555::1702903242::1702903242::1::::<><>::
-crosshair006.png::CompressedTexture2D::8307644941187485604::1702903242::1702903242::1::::<><>::
-::res://models/cuboard_bedrom/::1703944506
-cuboard_bedroom.fbx::PackedScene::43893778868194934::1702903242::1702903242::1::::<><>::
-::res://models/doors/::1703944506
-Door_001_DefaultMaterial_BaseColor.png::CompressedTexture2D::1631824449954766919::1702903242::1702903242::1::::<><>::
-door_cicle.fbx::PackedScene::8939890670871305234::1702903242::1702903242::1::::<><>::
-::res://models/grid_gate/::1703944506
-grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png::CompressedTexture2D::5380844185675751104::1702903242::1702903242::1::::<><>::
-grid_gate.fbx::PackedScene::1270571337016354062::1702903242::1702903242::1::::<><>::
-::res://models/grid_gate/grid_gate.fbm/::1703944506
-::res://models/kitchen/::1703944506
-kitchen_cabinet.glb::PackedScene::2098656373941009760::1702903242::1702903242::1::::<><>::
-kitchen_fridge.glb::PackedScene::6358979047671956909::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_0.png::CompressedTexture2D::4659699802854618973::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_1.png::CompressedTexture2D::2556851724836932046::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_2.png::CompressedTexture2D::4512409181114957985::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_3.png::CompressedTexture2D::9004899737000849467::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_4.png::CompressedTexture2D::5441079316565656698::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_5.png::CompressedTexture2D::2565683278619091141::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_6.png::CompressedTexture2D::5615075395827090610::1702903242::1702903242::1::::<><>::
-kitchen_fridge_Image_7.png::CompressedTexture2D::1805338716639597057::1702903242::1702903242::1::::<><>::
-kitchen_sink.glb::PackedScene::4517816727327054909::1702903242::1702903242::1::::<><>::
-kitchen_sink_sarten_baseColor.png::CompressedTexture2D::668854071889049182::1702903242::1702903242::1::::<><>::
-kitchen_sink_sarten_metallicRoughness.png::CompressedTexture2D::7501242239960031884::1702903242::1702903242::1::::<><>::
-kitchen_sink_sarten_normal.png::CompressedTexture2D::2809422770530484108::1702903242::1702903242::1::::<><>::
-kitchen_stove.glb::PackedScene::8993786722144256475::1702903242::1702903242::1::::<><>::
-kitchen_stove_Image_0.png::CompressedTexture2D::1755797869242074248::1702903242::1702903242::1::::<><>::
-kitchen_stove_Image_1.png::CompressedTexture2D::7603017830586880816::1702903242::1702903242::1::::<><>::
-kitchen_stove_Image_2.png::CompressedTexture2D::2355575471026817314::1702903242::1702903242::1::::<><>::
-kitchen_stove_Image_3.png::CompressedTexture2D::1590225422105617374::1702903242::1702903242::1::::<><>::
-kitchen_stove_Image_4.png::CompressedTexture2D::3434939662882110377::1702903242::1702903242::1::::<><>::
-::res://models/lockpin/::1703944506
-LOCK_PIN.fbx::PackedScene::181693032683339612::1702903242::1702903242::1::::<><>::
-::res://models/main_door/::1703944506
-main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png::CompressedTexture2D::3038225274121950713::1702903242::1702903242::1::::<><>::
-main_door.fbx::PackedScene::1487262292740601989::1702903242::1702903242::1::::<><>::
-::res://models/main_door/main_door.fbm/::1703944506
-::res://models/pickable_items/::1703944506
-::res://models/pickable_items/gf_base_door_key/::1703944506
-attack_on_titan_erens_basement_key.glb::PackedScene::9005985310225146640::1702903242::1702903242::1::::<><>::
-::res://models/pickable_items/grid_gate_key/::1703944506
-grid_key-c3fde5a7f406409a6efd56595d2f70dd_grid_key.png::CompressedTexture2D::1636640082289953067::1702903242::1702903242::1::::<><>::
-grid_key.fbx::PackedScene::3788242586120445752::1702903242::1702903242::1::::<><>::
-::res://models/pickable_items/grid_gate_key/grid_key.fbm/::1703944506
-::res://models/pickable_items/hammer/::1703944506
-hammer-5ae33247c457f8bfabd3ad54c83ced17_hammer.png::CompressedTexture2D::8721515509746073575::1702903242::1702903242::1::::<><>::
-hammer.fbx::PackedScene::7907735039650607025::1702903242::1702903242::1::::<><>::
-::res://models/pickable_items/hammer/hammer.fbm/::1703944506
-::res://models/pickable_items/MONSTER_KEY/::1703944506
-monster_key.fbx::PackedScene::461589524942151077::1702903242::1702903242::1::::<><>::
-::res://models/pickable_items/old_key/::1703944506
-old_key.glb::PackedScene::5371026495195950966::1702903242::1702903242::1::::<><>::
-old_key_0.png::CompressedTexture2D::7439141759052540698::1702903242::1702903242::1::::<><>::
-old_key_1.png::CompressedTexture2D::8074414433608316380::1702903242::1702903242::1::::<><>::
-::res://models/Robert_clown/::1703944506
-robert_clown.glb::PackedScene::7666125526953203603::1702903242::1702903242::1::::<><>::
-robert_clown_whiteclown_diffuse.png::CompressedTexture2D::1926045272969884452::1702903242::1702903242::1::::<><>::
-robert_clown_whiteclown_normal.png::CompressedTexture2D::285071581080519274::1702903242::1702903242::1::::<><>::
-robert_clown_whiteclown_specular.png::CompressedTexture2D::7358543759213881564::1702903242::1702903242::1::::<><>::
-::res://models/ship/::1703944506
-swampboat.fbx::PackedScene::297369266550880563::1702903242::1702903242::1::::<><>::
-swampboat_DefaultMaterial_BaseColor.png::CompressedTexture2D::3176619317245835238::1702903242::1702903242::1::::<><>::
-::res://models/wardrobe/::1703944506
-wardrobe.glb::PackedScene::7029708457073948074::1702903242::1702903242::1::::<><>::
-wardrobe_wardrobe.png::CompressedTexture2D::1525234182268755503::1702903242::1702903242::1::::<><>::
-::res://Model_static/::1703944506
-::res://Model_static/beds/::1703944506
-bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png::CompressedTexture2D::1498255146110917417::1702903244::1702903244::1::::<><>::
-bed.fbx::PackedScene::6352546532031702950::1702903244::1702903244::1::::<><>::
-::res://Model_static/beds/bed.fbm/::1703944506
-::res://Model_static/gate/::1703944506
-gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png::CompressedTexture2D::1675499744219620704::1702903244::1702903244::1::::<><>::
-gate-c16e21ba5c268142422526ccc55f9c2a_gate.png::CompressedTexture2D::3475007913270935374::1702903244::1702903244::1::::<><>::
-gate.fbx::PackedScene::409386330077465042::1702903244::1702903244::1::::<><>::
-::res://Model_static/gate/gate.fbm/::1703944506
-::res://Model_static/house/::1703944506
-house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png::CompressedTexture2D::2938318676409603363::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png::CompressedTexture2D::1086062685645986306::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png::CompressedTexture2D::446736108781563889::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png::CompressedTexture2D::1481878817872278834::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png::CompressedTexture2D::7918080143395779868::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png::CompressedTexture2D::7281643742953297789::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png::CompressedTexture2D::7189165360702667136::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png::CompressedTexture2D::5913172405804124634::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png::CompressedTexture2D::3359000369002987701::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png::CompressedTexture2D::184817083029564597::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png::CompressedTexture2D::2073773751481976393::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png::CompressedTexture2D::3573522349794996438::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png::CompressedTexture2D::7378574430567808422::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png::CompressedTexture2D::1015710708624625909::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png::CompressedTexture2D::4128265001328676566::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png::CompressedTexture2D::5184156103692377417::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png::CompressedTexture2D::4872827655746432738::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png::CompressedTexture2D::3904613762795506754::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png::CompressedTexture2D::6811333639904108716::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png::CompressedTexture2D::4099324966235394950::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png::CompressedTexture2D::3613990517041876990::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png::CompressedTexture2D::2125272944214039645::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wood_04.png::CompressedTexture2D::4146594341020689237::1702903244::1702903244::1::::<><>::
-house02-4167be13566ed59214ff21c0756662d0_Wood_06.png::CompressedTexture2D::1490960025692660437::1702903244::1702903244::1::::<><>::
-house02.fbx::PackedScene::3362682256643282992::1702903244::1702903244::1::::<><>::
-water_norm.jpg::CompressedTexture2D::3132236120798152160::1702903244::1702903244::1::::<><>::
-WoodPlanks_01.jpg::CompressedTexture2D::449916392875806806::1702903244::1702903244::1::::<><>::
-::res://Model_static/metal-rack/::1703944506
-metal_rack.fbx::PackedScene::632822127727044202::1702903244::1702903244::1::::<><>::
-::res://Model_static/photo_frames/::1703944506
-::res://Model_static/photo_frames/source/::1703944506
-PictureFramesGrp.fbx::PackedScene::8315071132409807866::1702903244::1702903244::1::::<><>::
-::res://Model_static/photo_frames/textures/::1703944506
-speakeasyAssetPack_pictureFrameMat.001_Bas.png::CompressedTexture2D::2274911006514535109::1702903244::1702903244::1::::<><>::
-speakeasyAssetPack_pictureFrameMat.001_Met.png::CompressedTexture2D::1315284352829682377::1702903244::1702903244::1::::<><>::
-speakeasyAssetPack_pictureFrameMat.001_Rou.png::CompressedTexture2D::818946324396661230::1702903244::1702903244::1::::<><>::
-::res://Model_static/sofa/::1703944506
-sofa-de01be3d09b0972aea7bd8451cdf2257_sofa.png::CompressedTexture2D::8710449021184256348::1702903244::1702903244::1::::<><>::
-sofa.fbx::PackedScene::5238345879424952148::1702903244::1702903244::1::::<><>::
-::res://Model_static/sofa/sofa.fbm/::1703944506
-::res://Model_static/tables/::1703944506
-dine_table.fbx::PackedScene::820747688929070137::1702903244::1702903244::1::::<><>::
-::res://Model_static/tv/::1703944506
-tv.glb::PackedScene::6772476080330472601::1702903244::1702903244::1::::<><>::
-tv_Image_0.png::CompressedTexture2D::6005473459453966953::1702903244::1702903244::1::::<><>::
-tv_Image_1.png::CompressedTexture2D::8314562911578859411::1702903244::1702903244::1::::<><>::
-tv_Image_2.png::CompressedTexture2D::2098699308889539768::1702903244::1702903244::1::::<><>::
-tv_Image_3.png::CompressedTexture2D::1078141426855358102::1702903244::1702903244::1::::<><>::
-tv_Image_4.png::CompressedTexture2D::3408216100970930941::1702903244::1702903244::1::::<><>::
-tv_Image_5.png::CompressedTexture2D::8072313903981468142::1702903244::1702903244::1::::<><>::
-::res://Model_static/window/::1703944506
-window-7afaf7b79354ce0f2c59be8e8bb885dc_window.png::CompressedTexture2D::8696646053773176750::1702903244::1702903244::1::::<><>::
-window-8b01132e571e6717038a2ddff52a704e_window.png::CompressedTexture2D::6242949367494331870::1702903244::1702903244::1::::<><>::
-window.fbx::PackedScene::5978763800328474832::1702903244::1702903244::1::::<><>::
-::res://Model_static/window/window.fbm/::1703944506
-::res://scenes/::1705221023
-game_over.tscn::PackedScene::6924994455576237982::1705221023::0::1::::<><>::uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf<>res://scripts/game_over.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
-load_game_menu.tscn::PackedScene::388896277969268222::1705221023::0::1::::<><>::res://scripts/load_game_menu.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
-mainmenu.tscn::PackedScene::2569175699333012179::1705221022::0::1::::<><>::res://scripts/mainmenu.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
-pausemenu.tscn::PackedScene::2008911391301852058::1705221022::0::1::::<><>::res://scripts/pausemenu.gd<>uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf
-::res://scenes/cuboard/::1703944506
-cuboard_bedroom-2.tscn::PackedScene::5281078163904921405::1702903244::0::1::::<><>::uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/cuboard_bedroom/cuboard_bedroom.gd
-cuboard_bedroom.tscn::PackedScene::8436508633190570411::1702903244::0::1::::<><>::uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/cuboard_bedroom/cuboard_bedroom.gd
-::res://scenes/death_scene/::1705221022
-death_scene.tscn::PackedScene::1811897574580017199::1705221022::0::1::::<><>::uid://dqwc1pw7aveeo::::res://assets/FONTS/HelpMe.ttf<>res://scripts/death_scene.gd
-::res://scenes/doors and windows/::1703944506
-basement_door_gate-working.tscn::PackedScene::7903361566324161615::1702903316::0::1::::<><>::uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>res://scripts/doors and gates/door_lock.gd
-basement_door_gate.tscn::PackedScene::1931585362575626312::1702903244::0::1::::<><>::uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png
-door_circle.tscn::PackedScene::839572021401168926::1702903244::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/door_lock.gd
-door_gf.tscn::PackedScene::3634645155220952310::1702903244::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/gf_base_doorkey.gd
-door_twoside.tscn::PackedScene::1936414367647378830::1702903244::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/norm_door_L.gd
-gate.tscn::PackedScene::4639242406173233799::1702903244::0::1::::<><>::uid://x4via2q51ige::::res://Model_static/gate/gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png
-grid_gate.tscn::PackedScene::6464878920108912406::1702903244::0::1::::<><>::uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/grid_gate.gd
-norm_door_L.tscn::PackedScene::8052240390634391189::1702903244::0::1::::<><>::uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/doors and gates/norm_door_L.gd<>uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png
-norm_door_r.tscn::PackedScene::3991960665386353965::1702903244::0::1::::<><>::uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/doors and gates/norm_door_r.gd
-wardrobe.tscn::PackedScene::540034908567976640::1702903244::0::1::::<><>::uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png
-window.tscn::PackedScene::3140100209795952221::1702903244::0::1::::<><>::uid://dv5yqwlobn2ri::::res://Model_static/window/window-7afaf7b79354ce0f2c59be8e8bb885dc_window.png
-::res://scenes/enemy/::1705221022
-robert_clown.tscn::PackedScene::1498785700361987085::1705221022::0::1::::<><>::res://scripts/enemy_clown/robert_clown.gd<>uid://2o8xi8wadub1::::res://models/Robert_clown/robert_clown_whiteclown_diffuse.png<>uid://ecdc754826ok::::res://models/Robert_clown/robert_clown_whiteclown_normal.png
-::res://scenes/Main House/::1705221023
-house-2.tscn::PackedScene::3399480061207235253::1705221023::0::1::::<><>::res://scripts/main.gd<>uid://3veqhskc5ibi::::res://scenes/pausemenu.tscn<>uid://by206lfxfkg1k::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png<>uid://4ss0r2x2typd::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png<>uid://5jq61yyn0acb::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png<>uid://dk2tvgk686k5q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png<>uid://vd3ley8jw7j7::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png<>uid://brqv5psysud23::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png<>uid://c4bpw1n1yn7yu::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>uid://cboo03b14ijmw::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png<>uid://bvvoohpaovrje::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png<>uid://gn7b7gowwk4e::::res://Model_static/house/WoodPlanks_01.jpg<>uid://daoqrdvo4ch1q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png<>uid://gmnxcjrmmwij::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png<>uid://bq6bnj88l6iug::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png<>uid://cf4ij8of17g4x::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png<>uid://cvr57muw3bsn::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png<>uid://byn0jvp3u25fm::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://bh4lxdjqbr67p::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>uid://b7djv6gpo24lf::::res://scenes/doors and windows/gate.tscn<>uid://oqauvwraq670::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png<>uid://pqdj8t232xk1::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png<>uid://ddeibpsdv1ihy::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://vma1topposlp::::res://scenes/enemy/robert_clown.tscn<>uid://br1wcslffbv4q::::res://scenes/doors and windows/door_gf.tscn<>res://scripts/doors and gates/grid_gate.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/basement_m_hole.gd<>uid://bw40akk3l50e8::::res://scenes/doors and windows/norm_door_r.tscn<>uid://dmythtsn5mlpl::::res://scenes/doors and windows/norm_door_L.tscn<>uid://l7xvmtys7r8y::::res://scenes/doors and windows/door_circle.tscn<>uid://bi6unetqx4t0l::::res://scenes/main_door/main_door.tscn<>uid://2uapx0ra400q::::res://scenes/doors and windows/door_twoside.tscn<>res://scripts/doors and gates/wardrobe.gd<>uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png<>res://scripts/doors and gates/r_door.gd<>res://scripts/doors and gates/l_door.gd<>res://scripts/doors and gates/m_door.gd<>res://scripts/tables and cabinets/table_open.gd<>uid://jr86t0ivche1::::res://models/kitchen/kitchen_sink_sarten_baseColor.png<>uid://de4wmmqyehbps::::res://models/kitchen/kitchen_sink_sarten_metallicRoughness.png<>uid://bga51uwc50u0c::::res://models/kitchen/kitchen_sink_sarten_normal.png<>uid://0ary77d7m1r5::::res://models/kitchen/kitchen_stove_Image_0.png<>uid://b7ngtswk5l6on::::res://models/kitchen/kitchen_fridge_Image_0.png<>uid://bk0c8yna7024p::::res://scenes/doors and windows/window.tscn<>uid://2rw6tufifof5::::res://scenes/doors and windows/basement_door_gate.tscn<>uid://dkuphfdx3xgxr::::res://scenes/doors and windows/basement_door_gate-working.tscn<>uid://chigt6fwx1h4h::::res://scenes/cuboard/cuboard_bedroom-2.tscn<>uid://dsgycgxandyit::::res://scenes/cuboard/cuboard_bedroom.tscn<>uid://bkvpbllnq6jkm::::res://scenes/ship/ship.tscn<>uid://bqb1m7rn6pidk::::res://scenes/pickable_items/grid_key.tscn<>uid://g0ttkt03i26y::::res://scenes/pickable_items/old_key.tscn<>uid://bcambiw4u3pqa::::res://scenes/pickable_items/hammer.tscn<>uid://c60tsx680jhbw::::res://scenes/pickable_items/lock_pin.tscn<>uid://dpkttb4k3rekb::::res://scenes/pickable_items/monster_key.tscn<>uid://soi6jseaxiet::::res://scenes/ship/need_gear.tscn<>uid://dimuo3ppvqjmk::::res://scenes/pickable_items/gf_base_door_key.tscn<>uid://7n8pmn21rw6h::::res://Model_static/photo_frames/textures/speakeasyAssetPack_pictureFrameMat.001_Bas.png<>uid://vb3bxisxc73y::::res://scenes/static objects/metal_rack/static_body_3d.tscn<>uid://vl1bqefx02g0::::res://Model_static/beds/bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png<>uid://ui7cu3slnyd1::::res://scenes/static objects/sofa/sofa.tscn<>uid://dcfej1qhoslos::::res://scenes/static objects/sofa/tv.tscn<>uid://bkvjqa2l64rt5::::res://Model_static/house/water_norm.jpg<>uid://dydv8osirnhe0::::res://scenes/player/player.tscn
-house.tscn::PackedScene::5380469120158269896::1705221022::0::1::::<><>::res://scripts/main.gd<>uid://by206lfxfkg1k::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png<>uid://4ss0r2x2typd::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png<>uid://3veqhskc5ibi::::res://scenes/pausemenu.tscn<>uid://5jq61yyn0acb::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png<>uid://dk2tvgk686k5q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png<>uid://vd3ley8jw7j7::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png<>uid://brqv5psysud23::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png<>uid://c4bpw1n1yn7yu::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>uid://cboo03b14ijmw::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png<>uid://bvvoohpaovrje::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png<>uid://gn7b7gowwk4e::::res://Model_static/house/WoodPlanks_01.jpg<>uid://daoqrdvo4ch1q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png<>uid://gmnxcjrmmwij::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png<>uid://bq6bnj88l6iug::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png<>uid://cf4ij8of17g4x::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png<>uid://cvr57muw3bsn::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png<>uid://byn0jvp3u25fm::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://bh4lxdjqbr67p::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>uid://b7djv6gpo24lf::::res://scenes/doors and windows/gate.tscn<>uid://oqauvwraq670::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png<>uid://pqdj8t232xk1::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png<>uid://ddeibpsdv1ihy::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://br1wcslffbv4q::::res://scenes/doors and windows/door_gf.tscn<>uid://bk0c8yna7024p::::res://scenes/doors and windows/window.tscn<>uid://bqb1m7rn6pidk::::res://scenes/pickable_items/grid_key.tscn<>uid://g0ttkt03i26y::::res://scenes/pickable_items/old_key.tscn<>uid://vma1topposlp::::res://scenes/enemy/robert_clown.tscn<>uid://bcambiw4u3pqa::::res://scenes/pickable_items/hammer.tscn<>uid://l7xvmtys7r8y::::res://scenes/doors and windows/door_circle.tscn<>res://scripts/doors and gates/grid_gate.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/basement_m_hole.gd<>uid://bi6unetqx4t0l::::res://scenes/main_door/main_door.tscn<>res://scripts/doors and gates/wardrobe.gd<>uid://2uapx0ra400q::::res://scenes/doors and windows/door_twoside.tscn<>uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png<>res://scripts/doors and gates/r_door.gd<>res://scripts/doors and gates/l_door.gd<>res://scripts/doors and gates/m_door.gd<>uid://jr86t0ivche1::::res://models/kitchen/kitchen_sink_sarten_baseColor.png<>res://scripts/tables and cabinets/table_open.gd<>uid://dydv8osirnhe0::::res://scenes/player/player.tscn<>uid://de4wmmqyehbps::::res://models/kitchen/kitchen_sink_sarten_metallicRoughness.png<>uid://bga51uwc50u0c::::res://models/kitchen/kitchen_sink_sarten_normal.png<>uid://0ary77d7m1r5::::res://models/kitchen/kitchen_stove_Image_0.png<>uid://c60tsx680jhbw::::res://scenes/pickable_items/lock_pin.tscn<>uid://2rw6tufifof5::::res://scenes/doors and windows/basement_door_gate.tscn<>uid://dkuphfdx3xgxr::::res://scenes/doors and windows/basement_door_gate-working.tscn<>uid://dsgycgxandyit::::res://scenes/cuboard/cuboard_bedroom.tscn<>uid://chigt6fwx1h4h::::res://scenes/cuboard/cuboard_bedroom-2.tscn<>uid://dmythtsn5mlpl::::res://scenes/doors and windows/norm_door_L.tscn<>uid://b7ngtswk5l6on::::res://models/kitchen/kitchen_fridge_Image_0.png<>uid://bw40akk3l50e8::::res://scenes/doors and windows/norm_door_r.tscn<>uid://bkvpbllnq6jkm::::res://scenes/ship/ship.tscn<>uid://7n8pmn21rw6h::::res://Model_static/photo_frames/textures/speakeasyAssetPack_pictureFrameMat.001_Bas.png<>uid://vb3bxisxc73y::::res://scenes/static objects/metal_rack/static_body_3d.tscn<>uid://dpkttb4k3rekb::::res://scenes/pickable_items/monster_key.tscn<>uid://vl1bqefx02g0::::res://Model_static/beds/bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png<>uid://ui7cu3slnyd1::::res://scenes/static objects/sofa/sofa.tscn<>uid://soi6jseaxiet::::res://scenes/ship/need_gear.tscn<>uid://dcfej1qhoslos::::res://scenes/static objects/sofa/tv.tscn<>uid://dimuo3ppvqjmk::::res://scenes/pickable_items/gf_base_door_key.tscn<>uid://bkvjqa2l64rt5::::res://Model_static/house/water_norm.jpg
-::res://scenes/main_door/::1705221022
-main_door.tscn::PackedScene::3013164938552855745::1705221022::0::1::::<><>::uid://bjj0ekda26vq4::::res://models/main_door/main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png<>res://scripts/main_door/main_door.gd<>res://scripts/main_door/need_monster_key.gd<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>res://scripts/main_door/wood_hammer.gd<>res://scripts/main_door/openz_all_locks.gd
-::res://scenes/pickable_items/::1703944506
-gf_base_door_key.tscn::PackedScene::7746786168738381750::1702903244::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://x4via2q51ige::::res://Model_static/gate/gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png<>uid://bprk4w0yj342u::::res://Model_static/gate/gate-c16e21ba5c268142422526ccc55f9c2a_gate.png
-grid_key.tscn::PackedScene::3513108338636031320::1702903244::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://xk2ht3lk64jn::::res://models/pickable_items/grid_gate_key/grid_key-c3fde5a7f406409a6efd56595d2f70dd_grid_key.png
-hammer.tscn::PackedScene::2527529216194239004::1702903244::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://dwi1c6wv0s1nf::::res://models/pickable_items/hammer/hammer-5ae33247c457f8bfabd3ad54c83ced17_hammer.png
-lock_pin.tscn::PackedScene::7001491988628680844::1702903244::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png
-monster_key.tscn::PackedScene::8233926133952265517::1702903244::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://bjj0ekda26vq4::::res://models/main_door/main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png
-old_key.tscn::PackedScene::473930614384879618::1702903244::0::1::::<><>::uid://dd8ttwb00pr8m::::res://models/pickable_items/old_key/old_key_0.png<>res://scripts/pickable_items/pickme.gd<>uid://dnbkoqq4wr2g3::::res://models/pickable_items/old_key/old_key_1.png
-::res://scenes/player/::1705221022
-player.tscn::PackedScene::8851322183221318837::1705221022::0::1::::<><>::res://scripts/player/player.gd<>uid://cms454srri8k2::::res://models/crosshair/crosshair001.png<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf<>uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf<>res://joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://joystick/textures/joystick_tip_arrows.png<>uid://ounhvkd5k7er::::res://assets/ui textures/buttons/Button - PS Circle 2.svg<>uid://b7wsmqhvh3r7q::::res://assets/ui textures/buttons/Button - PS Triangle 2.svg<>uid://ciybj3064eh08::::res://assets/ui textures/buttons/Button - PS Square White 1.svg<>uid://c3bgk3n5xjsj0::::res://assets/ui textures/buttons/Button - PS Cross 2.svg
-::res://scenes/ship/::1703944506
-need_gear.tscn::PackedScene::1292842070293889139::1702903244::0::1::::<><>::uid://bli1prgnsxawc::::res://models/ship/swampboat_DefaultMaterial_BaseColor.png<>res://scripts/pickable_items/pickme.gd
-ship.tscn::PackedScene::3132574188957053276::1702903244::0::1::::<><>::uid://bli1prgnsxawc::::res://models/ship/swampboat_DefaultMaterial_BaseColor.png
-::res://scenes/static objects/::1703944506
-::res://scenes/static objects/metal_rack/::1703944506
-static_body_3d.tscn::PackedScene::1477733176988284304::1702903244::0::1::::<><>::uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png
-::res://scenes/static objects/sofa/::1703944506
-sofa.tscn::PackedScene::1422239504704065208::1702903244::0::1::::<><>::uid://dwdn28eale6aq::::res://Model_static/sofa/sofa-de01be3d09b0972aea7bd8451cdf2257_sofa.png
-tv.tscn::PackedScene::7310221957903328490::1702903244::0::1::::<><>::uid://pmi3jsmcean3::::res://Model_static/tv/tv_Image_3.png<>uid://bos726l40plon::::res://Model_static/tv/tv_Image_4.png<>uid://dnaj3igv0imnu::::res://Model_static/tv/tv_Image_5.png<>uid://crtdjgwogsns8::::res://Model_static/tv/tv_Image_0.png<>uid://dqpvvvwkwgc3d::::res://Model_static/tv/tv_Image_1.png<>uid://45vjhjerkvca::::res://Model_static/tv/tv_Image_2.png
-::res://scripts/::1703944506
-death_scene.gd::GDScript::-1::1702903248::0::1::::<>Control<>::
-game_over.gd::GDScript::-1::1702904176::0::1::::<>Control<>::
-load_game_menu.gd::GDScript::-1::1702903248::0::1::::<>Control<>::
-main.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-mainmenu.gd::GDScript::-1::1702903248::0::1::::<>Control<>::
-pausemenu.gd::GDScript::-1::1702903248::0::1::::<>Control<>::
-::res://scripts/cuboard_bedroom/::1703944506
-cuboard_bedroom.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-::res://scripts/doors and gates/::1703944506
-basement_m_hole.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-door_lock.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-gf_base_doorkey.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-grid_gate.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-l_door.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-m_door.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-norm_door_L.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-norm_door_r.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-r_door.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-wardrobe.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-::res://scripts/enemy_clown/::1703944506
-robert_clown.gd::GDScript::-1::1702903248::0::1::::<>CharacterBody3D<>::
-::res://scripts/main_door/::1703944506
-main_door.gd::GDScript::-1::1702903964::0::1::::<>StaticBody3D<>::
-need_monster_key.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-openz_all_locks.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-wood_hammer.gd::GDScript::-1::1702903248::0::1::::<>StaticBody3D<>::
-::res://scripts/pickable_items/::1703944506
-pickme.gd::GDScript::-1::1702903248::0::1::::pickable<>RigidBody3D<>::
-::res://scripts/player/::1703944506
-player.gd::GDScript::-1::1702903248::0::1::::<>CharacterBody3D<>::
-::res://scripts/tables and cabinets/::1703944506
-cabinet.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-table_open.gd::GDScript::-1::1702903248::0::1::::<>Node3D<>::
-::res://test/::1703944506
-player.gd::GDScript::-1::1702903248::0::1::::<>Sprite2D<>::
-test.tscn::PackedScene::3566301953465693758::1702903248::0::1::::<><>::uid://dmr0fcamx7t56::::res://joystick/virtual_joystick.tscn<>uid://b4jy3cynf4voa::::res://icon.svg<>res://test/player.gd
+::res://::1706098794
+default_bus_layout.tres::AudioBusLayout::3603026363951262147::1706090287::0::1::::<><>::
+default_env.tres::Environment::-1::1706090287::0::1::::<><>::
+icon.png::CompressedTexture2D::4575083659561442673::1706090287::1706090287::1::::<><>::
+icon.svg::CompressedTexture2D::1148662725987244693::1706090287::1706090287::1::::<><>::
+radial.png::CompressedTexture2D::8879524701228599392::1706090288::1706090288::1::::<><>::
+README.md::TextFile::-1::1706090287::0::1::::<><>::
+::res://addons/::1706090287
+::res://addons/godot-jolt/::1706090287
+godot-jolt.gdextension::GDExtension::-1::1706090287::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1706090287::0::1::::<><>::
+THIRDPARTY.txt::TextFile::-1::1706090287::0::1::::<><>::
+::res://addons/godot-jolt/android/::1706090287
+::res://addons/godot-jolt/ios/::1706090287
+::res://addons/godot-jolt/ios/godot-jolt_ios.framework/::1706090287
+::res://addons/godot-jolt/ios/godot-jolt_ios_editor.framework/::1706090287
+::res://addons/godot-jolt/linux/::1706090287
+::res://addons/godot-jolt/macos/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/Resources/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/_CodeSignature/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1706090287
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1706090287
+::res://addons/godot-jolt/windows/::1706090287
+::res://assets/::1706090287
+::res://assets/FONTS/::1706090287
+GrimoireOfDeath-Italic.ttf::FontFile::3352786436905984237::1706090287::1706090287::1::::<><>::
+GrimoireOfDeath-Regular.ttf::FontFile::6890028108850717650::1706090287::1706090287::1::::<><>::
+HelpMe.ttf::FontFile::8327868547794909646::1706090287::1706090287::1::::<><>::
+::res://assets/ui textures/::1706090287
+::res://assets/ui textures/buttons/::1706090287
+Button - PS Circle 2.svg::CompressedTexture2D::1024734306092170921::1706090287::1706098797::1::::<><>::
+Button - PS Cross 2.svg::CompressedTexture2D::6740577019031251147::1706090287::1706098797::1::::<><>::
+Button - PS Square White 1.svg::CompressedTexture2D::5383975482447138847::1706090287::1706098797::1::::<><>::
+Button - PS Square White 2.png::CompressedTexture2D::4110824357759066086::1706090287::1706090287::1::::<><>::
+Button - PS Triangle 2.svg::CompressedTexture2D::4678995178247960260::1706090287::1706098797::1::::<><>::
+::res://joystick/::1706090287
+virtual_joystick.gd::GDScript::-1::1706090287::0::1::::VirtualJoystick<>Control<>::
+virtual_joystick.tscn::PackedScene::8038149555967335895::1706090287::0::1::::<><>::res://joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://joystick/textures/joystick_tip_arrows.png
+::res://joystick/textures/::1706090287
+joystick_base_outline.png::CompressedTexture2D::3288008411285325467::1706090287::1706090287::1::::<><>::
+joystick_tip.png::CompressedTexture2D::3132432681801126628::1706090287::1706090287::1::::<><>::
+joystick_tip_arrows.png::CompressedTexture2D::8548255698028078709::1706090287::1706090287::1::::<><>::
+::res://models/::1706090287
+::res://models/crosshair/::1706090287
+crosshair001.png::CompressedTexture2D::5654082209002147555::1706090287::1706090287::1::::<><>::
+crosshair006.png::CompressedTexture2D::8307644941187485604::1706090287::1706090287::1::::<><>::
+::res://models/cuboard_bedrom/::1706090287
+cuboard_bedroom.fbx::PackedScene::43893778868194934::1706090287::1706090287::1::::<><>::
+::res://models/doors/::1706090287
+Door_001_DefaultMaterial_BaseColor.png::CompressedTexture2D::1631824449954766919::1706090287::1706090287::1::::<><>::
+door_cicle.fbx::PackedScene::8939890670871305234::1706090287::1706090287::1::::<><>::
+::res://models/grid_gate/::1706090287
+grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png::CompressedTexture2D::5380844185675751104::1706090287::1706090287::1::::<><>::
+grid_gate.fbx::PackedScene::1270571337016354062::1706090287::1706090287::1::::<><>::
+::res://models/grid_gate/grid_gate.fbm/::1706090287
+::res://models/kitchen/::1706090287
+kitchen_cabinet.glb::PackedScene::2098656373941009760::1706090287::1706090287::1::::<><>::
+kitchen_fridge.glb::PackedScene::6358979047671956909::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_0.png::CompressedTexture2D::4659699802854618973::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_1.png::CompressedTexture2D::2556851724836932046::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_2.png::CompressedTexture2D::4512409181114957985::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_3.png::CompressedTexture2D::9004899737000849467::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_4.png::CompressedTexture2D::5441079316565656698::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_5.png::CompressedTexture2D::2565683278619091141::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_6.png::CompressedTexture2D::5615075395827090610::1706090287::1706090287::1::::<><>::
+kitchen_fridge_Image_7.png::CompressedTexture2D::1805338716639597057::1706090287::1706090287::1::::<><>::
+kitchen_sink.glb::PackedScene::4517816727327054909::1706090287::1706090287::1::::<><>::
+kitchen_sink_sarten_baseColor.png::CompressedTexture2D::668854071889049182::1706090287::1706090287::1::::<><>::
+kitchen_sink_sarten_metallicRoughness.png::CompressedTexture2D::7501242239960031884::1706090287::1706090287::1::::<><>::
+kitchen_sink_sarten_normal.png::CompressedTexture2D::2809422770530484108::1706090287::1706090287::1::::<><>::
+kitchen_stove.glb::PackedScene::8993786722144256475::1706090287::1706090287::1::::<><>::
+kitchen_stove_Image_0.png::CompressedTexture2D::1755797869242074248::1706090287::1706090287::1::::<><>::
+kitchen_stove_Image_1.png::CompressedTexture2D::7603017830586880816::1706090287::1706090287::1::::<><>::
+kitchen_stove_Image_2.png::CompressedTexture2D::2355575471026817314::1706090287::1706090287::1::::<><>::
+kitchen_stove_Image_3.png::CompressedTexture2D::1590225422105617374::1706090287::1706090287::1::::<><>::
+kitchen_stove_Image_4.png::CompressedTexture2D::3434939662882110377::1706090287::1706090287::1::::<><>::
+::res://models/lockpin/::1706090287
+LOCK_PIN.fbx::PackedScene::181693032683339612::1706090287::1706090287::1::::<><>::
+::res://models/main_door/::1706090287
+main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png::CompressedTexture2D::3038225274121950713::1706090287::1706090287::1::::<><>::
+main_door.fbx::PackedScene::1487262292740601989::1706090287::1706090287::1::::<><>::
+::res://models/main_door/main_door.fbm/::1706090287
+::res://models/pickable_items/::1706090287
+::res://models/pickable_items/gf_base_door_key/::1706090287
+attack_on_titan_erens_basement_key.glb::PackedScene::9005985310225146640::1706090287::1706090287::1::::<><>::
+::res://models/pickable_items/grid_gate_key/::1706090287
+grid_key-c3fde5a7f406409a6efd56595d2f70dd_grid_key.png::CompressedTexture2D::1636640082289953067::1706090287::1706090287::1::::<><>::
+grid_key.fbx::PackedScene::3788242586120445752::1706090287::1706090287::1::::<><>::
+::res://models/pickable_items/grid_gate_key/grid_key.fbm/::1706090287
+::res://models/pickable_items/hammer/::1706090287
+hammer-5ae33247c457f8bfabd3ad54c83ced17_hammer.png::CompressedTexture2D::8721515509746073575::1706090287::1706090287::1::::<><>::
+hammer.fbx::PackedScene::7907735039650607025::1706090287::1706090287::1::::<><>::
+::res://models/pickable_items/hammer/hammer.fbm/::1706090287
+::res://models/pickable_items/MONSTER_KEY/::1706090287
+monster_key.fbx::PackedScene::461589524942151077::1706090287::1706090287::1::::<><>::
+::res://models/pickable_items/old_key/::1706090287
+old_key.glb::PackedScene::5371026495195950966::1706090287::1706090287::1::::<><>::
+old_key_0.png::CompressedTexture2D::7439141759052540698::1706090287::1706090287::1::::<><>::
+old_key_1.png::CompressedTexture2D::8074414433608316380::1706090287::1706090287::1::::<><>::
+::res://models/Robert_clown/::1706090287
+robert_clown.glb::PackedScene::7666125526953203603::1706090287::1706090287::1::::<><>::
+robert_clown_whiteclown_diffuse.png::CompressedTexture2D::1926045272969884452::1706090287::1706090287::1::::<><>::
+robert_clown_whiteclown_normal.png::CompressedTexture2D::285071581080519274::1706090287::1706090287::1::::<><>::
+robert_clown_whiteclown_specular.png::CompressedTexture2D::7358543759213881564::1706090287::1706090287::1::::<><>::
+::res://models/ship/::1706090287
+swampboat.fbx::PackedScene::297369266550880563::1706090287::1706090287::1::::<><>::
+swampboat_DefaultMaterial_BaseColor.png::CompressedTexture2D::3176619317245835238::1706090287::1706090287::1::::<><>::
+::res://models/wardrobe/::1706090288
+wardrobe.glb::PackedScene::7029708457073948074::1706090288::1706090288::1::::<><>::
+wardrobe_wardrobe.png::CompressedTexture2D::1525234182268755503::1706090288::1706090288::1::::<><>::
+::res://Model_static/::1706090287
+::res://Model_static/beds/::1706090287
+bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png::CompressedTexture2D::1498255146110917417::1706090287::1706090287::1::::<><>::
+bed.fbx::PackedScene::6352546532031702950::1706090287::1706090287::1::::<><>::
+::res://Model_static/beds/bed.fbm/::1706090287
+::res://Model_static/gate/::1706090287
+gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png::CompressedTexture2D::1675499744219620704::1706090287::1706090287::1::::<><>::
+gate-c16e21ba5c268142422526ccc55f9c2a_gate.png::CompressedTexture2D::3475007913270935374::1706090287::1706090287::1::::<><>::
+gate.fbx::PackedScene::409386330077465042::1706090287::1706090287::1::::<><>::
+::res://Model_static/gate/gate.fbm/::1706090287
+::res://Model_static/house/::1706090287
+house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png::CompressedTexture2D::2938318676409603363::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png::CompressedTexture2D::1086062685645986306::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png::CompressedTexture2D::446736108781563889::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png::CompressedTexture2D::1481878817872278834::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png::CompressedTexture2D::7918080143395779868::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png::CompressedTexture2D::7281643742953297789::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png::CompressedTexture2D::7189165360702667136::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png::CompressedTexture2D::5913172405804124634::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png::CompressedTexture2D::3359000369002987701::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png::CompressedTexture2D::184817083029564597::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png::CompressedTexture2D::2073773751481976393::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png::CompressedTexture2D::3573522349794996438::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png::CompressedTexture2D::7378574430567808422::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png::CompressedTexture2D::1015710708624625909::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png::CompressedTexture2D::4128265001328676566::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png::CompressedTexture2D::5184156103692377417::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png::CompressedTexture2D::4872827655746432738::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png::CompressedTexture2D::3904613762795506754::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png::CompressedTexture2D::6811333639904108716::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png::CompressedTexture2D::4099324966235394950::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png::CompressedTexture2D::3613990517041876990::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png::CompressedTexture2D::2125272944214039645::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wood_04.png::CompressedTexture2D::4146594341020689237::1706090287::1706090287::1::::<><>::
+house02-4167be13566ed59214ff21c0756662d0_Wood_06.png::CompressedTexture2D::1490960025692660437::1706090287::1706090287::1::::<><>::
+house02.fbx::PackedScene::3362682256643282992::1706090287::1706090287::1::::<><>::
+water_norm.jpg::CompressedTexture2D::3132236120798152160::1706090287::1706090287::1::::<><>::
+WoodPlanks_01.jpg::CompressedTexture2D::449916392875806806::1706090287::1706090287::1::::<><>::
+::res://Model_static/metal-rack/::1706090287
+metal_rack.fbx::PackedScene::632822127727044202::1706090287::1706090287::1::::<><>::
+::res://Model_static/photo_frames/::1706090287
+::res://Model_static/photo_frames/source/::1706090287
+PictureFramesGrp.fbx::PackedScene::8315071132409807866::1706090287::1706090287::1::::<><>::
+::res://Model_static/photo_frames/textures/::1706090287
+speakeasyAssetPack_pictureFrameMat.001_Bas.png::CompressedTexture2D::2274911006514535109::1706090287::1706090287::1::::<><>::
+speakeasyAssetPack_pictureFrameMat.001_Met.png::CompressedTexture2D::1315284352829682377::1706090287::1706090287::1::::<><>::
+speakeasyAssetPack_pictureFrameMat.001_Rou.png::CompressedTexture2D::818946324396661230::1706090287::1706090287::1::::<><>::
+::res://Model_static/sofa/::1706090287
+sofa-de01be3d09b0972aea7bd8451cdf2257_sofa.png::CompressedTexture2D::8710449021184256348::1706090287::1706090287::1::::<><>::
+sofa.fbx::PackedScene::5238345879424952148::1706090287::1706090287::1::::<><>::
+::res://Model_static/sofa/sofa.fbm/::1706090287
+::res://Model_static/tables/::1706090287
+dine_table.fbx::PackedScene::820747688929070137::1706090287::1706090287::1::::<><>::
+::res://Model_static/tv/::1706090287
+tv.glb::PackedScene::6772476080330472601::1706090287::1706090287::1::::<><>::
+tv_Image_0.png::CompressedTexture2D::6005473459453966953::1706090287::1706090287::1::::<><>::
+tv_Image_1.png::CompressedTexture2D::8314562911578859411::1706090287::1706090287::1::::<><>::
+tv_Image_2.png::CompressedTexture2D::2098699308889539768::1706090287::1706090287::1::::<><>::
+tv_Image_3.png::CompressedTexture2D::1078141426855358102::1706090287::1706090287::1::::<><>::
+tv_Image_4.png::CompressedTexture2D::3408216100970930941::1706090287::1706090287::1::::<><>::
+tv_Image_5.png::CompressedTexture2D::8072313903981468142::1706090287::1706090287::1::::<><>::
+::res://Model_static/window/::1706090287
+window-7afaf7b79354ce0f2c59be8e8bb885dc_window.png::CompressedTexture2D::8696646053773176750::1706090287::1706090287::1::::<><>::
+window-8b01132e571e6717038a2ddff52a704e_window.png::CompressedTexture2D::6242949367494331870::1706090287::1706090287::1::::<><>::
+window.fbx::PackedScene::5978763800328474832::1706090287::1706090287::1::::<><>::
+::res://Model_static/window/window.fbm/::1706090287
+::res://scenes/::1706090288
+game_over.tscn::PackedScene::6924994455576237982::1706090288::0::1::::<><>::uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf<>res://scripts/game_over.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
+load_game_menu.tscn::PackedScene::388896277969268222::1706090288::0::1::::<><>::res://scripts/load_game_menu.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
+mainmenu.tscn::PackedScene::2569175699333012179::1706090288::0::1::::<><>::res://scripts/mainmenu.gd<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf
+pausemenu.tscn::PackedScene::2008911391301852058::1706090288::0::1::::<><>::res://scripts/pausemenu.gd<>uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf
+::res://scenes/cuboard/::1706090288
+cuboard_bedroom-2.tscn::PackedScene::5281078163904921405::1706090288::0::1::::<><>::uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/cuboard_bedroom/cuboard_bedroom.gd
+cuboard_bedroom.tscn::PackedScene::8436508633190570411::1706090288::0::1::::<><>::uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/cuboard_bedroom/cuboard_bedroom.gd
+::res://scenes/death_scene/::1706090288
+death_scene.tscn::PackedScene::1811897574580017199::1706090288::0::1::::<><>::uid://dqwc1pw7aveeo::::res://assets/FONTS/HelpMe.ttf<>res://scripts/death_scene.gd
+::res://scenes/doors and windows/::1706090288
+basement_door_gate-working.tscn::PackedScene::7903361566324161615::1706090288::0::1::::<><>::uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>res://scripts/doors and gates/door_lock.gd
+basement_door_gate.tscn::PackedScene::1931585362575626312::1706090288::0::1::::<><>::uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png
+door_circle.tscn::PackedScene::839572021401168926::1706090288::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/door_lock.gd
+door_gf.tscn::PackedScene::3634645155220952310::1706090288::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/gf_base_doorkey.gd
+door_twoside.tscn::PackedScene::1936414367647378830::1706090288::0::1::::<><>::uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>res://scripts/doors and gates/norm_door_L.gd
+gate.tscn::PackedScene::4639242406173233799::1706090288::0::1::::<><>::uid://x4via2q51ige::::res://Model_static/gate/gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png
+grid_gate.tscn::PackedScene::6464878920108912406::1706090288::0::1::::<><>::uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/grid_gate.gd
+norm_door_L.tscn::PackedScene::8052240390634391189::1706090288::0::1::::<><>::uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/doors and gates/norm_door_L.gd<>uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png
+norm_door_r.tscn::PackedScene::3991960665386353965::1706090288::0::1::::<><>::uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://xip57jts3yjv::::res://models/doors/Door_001_DefaultMaterial_BaseColor.png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>res://scripts/doors and gates/norm_door_r.gd
+wardrobe.tscn::PackedScene::540034908567976640::1706090288::0::1::::<><>::uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png
+window.tscn::PackedScene::3140100209795952221::1706090288::0::1::::<><>::uid://dv5yqwlobn2ri::::res://Model_static/window/window-7afaf7b79354ce0f2c59be8e8bb885dc_window.png
+::res://scenes/enemy/::1706090288
+robert_clown.tscn::PackedScene::1498785700361987085::1706090288::0::1::::<><>::res://scripts/enemy_clown/robert_clown.gd<>uid://2o8xi8wadub1::::res://models/Robert_clown/robert_clown_whiteclown_diffuse.png<>uid://ecdc754826ok::::res://models/Robert_clown/robert_clown_whiteclown_normal.png
+::res://scenes/Main House/::1706090288
+house-2.tscn::PackedScene::3399480061207235253::1706090288::0::1::::<><>::res://scripts/main.gd<>uid://3veqhskc5ibi::::res://scenes/pausemenu.tscn<>uid://by206lfxfkg1k::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png<>uid://4ss0r2x2typd::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png<>uid://5jq61yyn0acb::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png<>uid://dk2tvgk686k5q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png<>uid://vd3ley8jw7j7::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png<>uid://brqv5psysud23::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png<>uid://c4bpw1n1yn7yu::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>uid://cboo03b14ijmw::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png<>uid://bvvoohpaovrje::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png<>uid://gn7b7gowwk4e::::res://Model_static/house/WoodPlanks_01.jpg<>uid://daoqrdvo4ch1q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png<>uid://gmnxcjrmmwij::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png<>uid://bq6bnj88l6iug::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png<>uid://cf4ij8of17g4x::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png<>uid://cvr57muw3bsn::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png<>uid://byn0jvp3u25fm::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://bh4lxdjqbr67p::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>uid://b7djv6gpo24lf::::res://scenes/doors and windows/gate.tscn<>uid://oqauvwraq670::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png<>uid://pqdj8t232xk1::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png<>uid://ddeibpsdv1ihy::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://vma1topposlp::::res://scenes/enemy/robert_clown.tscn<>uid://br1wcslffbv4q::::res://scenes/doors and windows/door_gf.tscn<>res://scripts/doors and gates/grid_gate.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/basement_m_hole.gd<>uid://bw40akk3l50e8::::res://scenes/doors and windows/norm_door_r.tscn<>uid://dmythtsn5mlpl::::res://scenes/doors and windows/norm_door_L.tscn<>uid://l7xvmtys7r8y::::res://scenes/doors and windows/door_circle.tscn<>uid://bi6unetqx4t0l::::res://scenes/main_door/main_door.tscn<>uid://2uapx0ra400q::::res://scenes/doors and windows/door_twoside.tscn<>res://scripts/doors and gates/wardrobe.gd<>uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png<>res://scripts/doors and gates/r_door.gd<>res://scripts/doors and gates/l_door.gd<>res://scripts/doors and gates/m_door.gd<>res://scripts/tables and cabinets/table_open.gd<>uid://jr86t0ivche1::::res://models/kitchen/kitchen_sink_sarten_baseColor.png<>uid://de4wmmqyehbps::::res://models/kitchen/kitchen_sink_sarten_metallicRoughness.png<>uid://bga51uwc50u0c::::res://models/kitchen/kitchen_sink_sarten_normal.png<>uid://0ary77d7m1r5::::res://models/kitchen/kitchen_stove_Image_0.png<>uid://b7ngtswk5l6on::::res://models/kitchen/kitchen_fridge_Image_0.png<>uid://bk0c8yna7024p::::res://scenes/doors and windows/window.tscn<>uid://2rw6tufifof5::::res://scenes/doors and windows/basement_door_gate.tscn<>uid://dkuphfdx3xgxr::::res://scenes/doors and windows/basement_door_gate-working.tscn<>uid://chigt6fwx1h4h::::res://scenes/cuboard/cuboard_bedroom-2.tscn<>uid://dsgycgxandyit::::res://scenes/cuboard/cuboard_bedroom.tscn<>uid://bkvpbllnq6jkm::::res://scenes/ship/ship.tscn<>uid://bqb1m7rn6pidk::::res://scenes/pickable_items/grid_key.tscn<>uid://g0ttkt03i26y::::res://scenes/pickable_items/old_key.tscn<>uid://bcambiw4u3pqa::::res://scenes/pickable_items/hammer.tscn<>uid://c60tsx680jhbw::::res://scenes/pickable_items/lock_pin.tscn<>uid://dpkttb4k3rekb::::res://scenes/pickable_items/monster_key.tscn<>uid://soi6jseaxiet::::res://scenes/ship/need_gear.tscn<>uid://dimuo3ppvqjmk::::res://scenes/pickable_items/gf_base_door_key.tscn<>uid://7n8pmn21rw6h::::res://Model_static/photo_frames/textures/speakeasyAssetPack_pictureFrameMat.001_Bas.png<>uid://vb3bxisxc73y::::res://scenes/static objects/metal_rack/static_body_3d.tscn<>uid://vl1bqefx02g0::::res://Model_static/beds/bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png<>uid://ui7cu3slnyd1::::res://scenes/static objects/sofa/sofa.tscn<>uid://dcfej1qhoslos::::res://scenes/static objects/sofa/tv.tscn<>uid://bkvjqa2l64rt5::::res://Model_static/house/water_norm.jpg<>uid://dydv8osirnhe0::::res://scenes/player/player.tscn
+house.tscn::PackedScene::5380469120158269896::1706090288::0::1::::<><>::res://scripts/main.gd<>uid://by206lfxfkg1k::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_rooftop_0009_color_1k.png<>uid://4ss0r2x2typd::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grunge-style-background-with-old-wooden-texture.png<>uid://3veqhskc5ibi::::res://scenes/pausemenu.tscn<>uid://5jq61yyn0acb::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wooden-texture.png<>uid://dk2tvgk686k5q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_ConcreteBare.png<>uid://vd3ley8jw7j7::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_181_blackconcretebarePBRtexture-seamless.png<>uid://brqv5psysud23::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall_trim_pattern.png<>uid://c4bpw1n1yn7yu::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (46).png<>uid://vih5nhtk413n::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_06.png<>uid://cboo03b14ijmw::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (40).png<>uid://bvvoohpaovrje::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wall Grime (42).png<>uid://gn7b7gowwk4e::::res://Model_static/house/WoodPlanks_01.jpg<>uid://daoqrdvo4ch1q::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Floor Grime (29).png<>uid://gmnxcjrmmwij::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_170_Polishedbrowncastconcretefloorpbrtexture-seamless.png<>uid://bq6bnj88l6iug::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_lb_concrete.png<>uid://cf4ij8of17g4x::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_tiles_bathroom_color.png<>uid://cvr57muw3bsn::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grren_white_wooden_plates.png<>uid://byn0jvp3u25fm::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_wallpaper-flowers-ornament.png<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png<>uid://bh4lxdjqbr67p::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_concrete clean plates wall texture-seamless.png<>uid://cqinc57mc0w2e::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_GARAGE_WALLS_COLOR.png<>uid://b7djv6gpo24lf::::res://scenes/doors and windows/gate.tscn<>uid://oqauvwraq670::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_paint_0002_color_1k.png<>uid://pqdj8t232xk1::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_94_Vicentinastonetiles120x280pbrtextureseamless.png<>uid://ddeibpsdv1ihy::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Main_Diffuse_wall_floor.png<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://br1wcslffbv4q::::res://scenes/doors and windows/door_gf.tscn<>uid://bk0c8yna7024p::::res://scenes/doors and windows/window.tscn<>uid://bqb1m7rn6pidk::::res://scenes/pickable_items/grid_key.tscn<>uid://g0ttkt03i26y::::res://scenes/pickable_items/old_key.tscn<>uid://vma1topposlp::::res://scenes/enemy/robert_clown.tscn<>uid://bcambiw4u3pqa::::res://scenes/pickable_items/hammer.tscn<>uid://l7xvmtys7r8y::::res://scenes/doors and windows/door_circle.tscn<>res://scripts/doors and gates/grid_gate.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png<>res://scripts/doors and gates/basement_m_hole.gd<>uid://bi6unetqx4t0l::::res://scenes/main_door/main_door.tscn<>res://scripts/doors and gates/wardrobe.gd<>uid://2uapx0ra400q::::res://scenes/doors and windows/door_twoside.tscn<>uid://vy3ncclnybq2::::res://models/wardrobe/wardrobe_wardrobe.png<>res://scripts/doors and gates/r_door.gd<>res://scripts/doors and gates/l_door.gd<>res://scripts/doors and gates/m_door.gd<>uid://jr86t0ivche1::::res://models/kitchen/kitchen_sink_sarten_baseColor.png<>res://scripts/tables and cabinets/table_open.gd<>uid://dydv8osirnhe0::::res://scenes/player/player.tscn<>uid://de4wmmqyehbps::::res://models/kitchen/kitchen_sink_sarten_metallicRoughness.png<>uid://bga51uwc50u0c::::res://models/kitchen/kitchen_sink_sarten_normal.png<>uid://0ary77d7m1r5::::res://models/kitchen/kitchen_stove_Image_0.png<>uid://c60tsx680jhbw::::res://scenes/pickable_items/lock_pin.tscn<>uid://2rw6tufifof5::::res://scenes/doors and windows/basement_door_gate.tscn<>uid://dkuphfdx3xgxr::::res://scenes/doors and windows/basement_door_gate-working.tscn<>uid://dsgycgxandyit::::res://scenes/cuboard/cuboard_bedroom.tscn<>uid://chigt6fwx1h4h::::res://scenes/cuboard/cuboard_bedroom-2.tscn<>uid://dmythtsn5mlpl::::res://scenes/doors and windows/norm_door_L.tscn<>uid://b7ngtswk5l6on::::res://models/kitchen/kitchen_fridge_Image_0.png<>uid://bw40akk3l50e8::::res://scenes/doors and windows/norm_door_r.tscn<>uid://bkvpbllnq6jkm::::res://scenes/ship/ship.tscn<>uid://7n8pmn21rw6h::::res://Model_static/photo_frames/textures/speakeasyAssetPack_pictureFrameMat.001_Bas.png<>uid://vb3bxisxc73y::::res://scenes/static objects/metal_rack/static_body_3d.tscn<>uid://dpkttb4k3rekb::::res://scenes/pickable_items/monster_key.tscn<>uid://vl1bqefx02g0::::res://Model_static/beds/bed-de4df00018d9bfa97f698c51f0ae46cb_bed.png<>uid://ui7cu3slnyd1::::res://scenes/static objects/sofa/sofa.tscn<>uid://soi6jseaxiet::::res://scenes/ship/need_gear.tscn<>uid://dcfej1qhoslos::::res://scenes/static objects/sofa/tv.tscn<>uid://dimuo3ppvqjmk::::res://scenes/pickable_items/gf_base_door_key.tscn<>uid://bkvjqa2l64rt5::::res://Model_static/house/water_norm.jpg
+::res://scenes/main_door/::1706090288
+main_door.tscn::PackedScene::3013164938552855745::1706090288::0::1::::<><>::uid://bjj0ekda26vq4::::res://models/main_door/main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png<>res://scripts/main_door/main_door.gd<>res://scripts/main_door/need_monster_key.gd<>uid://b0cv2kh83530d::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_Wood_04.png<>res://scripts/main_door/wood_hammer.gd<>res://scripts/main_door/openz_all_locks.gd
+::res://scenes/pickable_items/::1706090288
+gf_base_door_key.tscn::PackedScene::7746786168738381750::1706090288::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://x4via2q51ige::::res://Model_static/gate/gate-2af3ed0fff0f4117794ce56a82efdd70_gate.png<>uid://bprk4w0yj342u::::res://Model_static/gate/gate-c16e21ba5c268142422526ccc55f9c2a_gate.png
+grid_key.tscn::PackedScene::3513108338636031320::1706090288::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://xk2ht3lk64jn::::res://models/pickable_items/grid_gate_key/grid_key-c3fde5a7f406409a6efd56595d2f70dd_grid_key.png
+hammer.tscn::PackedScene::2527529216194239004::1706090288::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://dwi1c6wv0s1nf::::res://models/pickable_items/hammer/hammer-5ae33247c457f8bfabd3ad54c83ced17_hammer.png
+lock_pin.tscn::PackedScene::7001491988628680844::1706090288::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://ciwrynsbhklqu::::res://models/grid_gate/grid_gate-8c472c72b7e40d8a48ffd04a75501429_grid_gate.png
+monster_key.tscn::PackedScene::8233926133952265517::1706090288::0::1::::<><>::res://scripts/pickable_items/pickme.gd<>uid://bjj0ekda26vq4::::res://models/main_door/main_door-8638e8ad1c9f15476ebf31c946e2edc8_main_door.png
+old_key.tscn::PackedScene::473930614384879618::1706090288::0::1::::<><>::uid://dd8ttwb00pr8m::::res://models/pickable_items/old_key/old_key_0.png<>res://scripts/pickable_items/pickme.gd<>uid://dnbkoqq4wr2g3::::res://models/pickable_items/old_key/old_key_1.png
+::res://scenes/player/::1706090288
+player.tscn::PackedScene::8851322183221318837::1706090288::0::1::::<><>::res://scripts/player/player.gd<>uid://cms454srri8k2::::res://models/crosshair/crosshair001.png<>uid://c5ft0yj5midcc::::res://assets/FONTS/GrimoireOfDeath-Regular.ttf<>uid://bn1d5xum4ixht::::res://assets/FONTS/GrimoireOfDeath-Italic.ttf<>res://joystick/virtual_joystick.gd<>uid://bm30au8mjfc2f::::res://joystick/textures/joystick_base_outline.png<>uid://dt13r06u87fib::::res://joystick/textures/joystick_tip_arrows.png<>uid://ounhvkd5k7er::::res://assets/ui textures/buttons/Button - PS Circle 2.svg<>uid://b7wsmqhvh3r7q::::res://assets/ui textures/buttons/Button - PS Triangle 2.svg<>uid://ciybj3064eh08::::res://assets/ui textures/buttons/Button - PS Square White 1.svg<>uid://c3bgk3n5xjsj0::::res://assets/ui textures/buttons/Button - PS Cross 2.svg
+::res://scenes/ship/::1706090288
+need_gear.tscn::PackedScene::1292842070293889139::1706090288::0::1::::<><>::uid://bli1prgnsxawc::::res://models/ship/swampboat_DefaultMaterial_BaseColor.png<>res://scripts/pickable_items/pickme.gd
+ship.tscn::PackedScene::3132574188957053276::1706090288::0::1::::<><>::uid://bli1prgnsxawc::::res://models/ship/swampboat_DefaultMaterial_BaseColor.png
+::res://scenes/static objects/::1706090288
+::res://scenes/static objects/metal_rack/::1706090288
+static_body_3d.tscn::PackedScene::1477733176988284304::1706090288::0::1::::<><>::uid://db0juxr3aobcf::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_empty-brown-rusty-stone-metal-surface-texture.png<>uid://bn4eilud2csnt::::res://Model_static/house/house02-4167be13566ed59214ff21c0756662d0_grey-concrete-wall-texture.png
+::res://scenes/static objects/sofa/::1706090288
+sofa.tscn::PackedScene::1422239504704065208::1706090288::0::1::::<><>::uid://dwdn28eale6aq::::res://Model_static/sofa/sofa-de01be3d09b0972aea7bd8451cdf2257_sofa.png
+tv.tscn::PackedScene::7310221957903328490::1706090288::0::1::::<><>::uid://pmi3jsmcean3::::res://Model_static/tv/tv_Image_3.png<>uid://bos726l40plon::::res://Model_static/tv/tv_Image_4.png<>uid://dnaj3igv0imnu::::res://Model_static/tv/tv_Image_5.png<>uid://crtdjgwogsns8::::res://Model_static/tv/tv_Image_0.png<>uid://dqpvvvwkwgc3d::::res://Model_static/tv/tv_Image_1.png<>uid://45vjhjerkvca::::res://Model_static/tv/tv_Image_2.png
+::res://scripts/::1706090288
+death_scene.gd::GDScript::-1::1706090288::0::1::::<>Control<>::
+game_over.gd::GDScript::-1::1706090288::0::1::::<>Control<>::
+load_game_menu.gd::GDScript::-1::1706090288::0::1::::<>Control<>::
+main.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+mainmenu.gd::GDScript::-1::1706090288::0::1::::<>Control<>::
+pausemenu.gd::GDScript::-1::1706090288::0::1::::<>Control<>::
+::res://scripts/cuboard_bedroom/::1706090288
+cuboard_bedroom.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+::res://scripts/doors and gates/::1706090288
+basement_m_hole.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+door_lock.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+gf_base_doorkey.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+grid_gate.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+l_door.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+m_door.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+norm_door_L.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+norm_door_r.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+r_door.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+wardrobe.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+::res://scripts/enemy_clown/::1706090288
+robert_clown.gd::GDScript::-1::1706090288::0::1::::<>CharacterBody3D<>::
+::res://scripts/main_door/::1706090288
+main_door.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+need_monster_key.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+openz_all_locks.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+wood_hammer.gd::GDScript::-1::1706090288::0::1::::<>StaticBody3D<>::
+::res://scripts/pickable_items/::1706090288
+pickme.gd::GDScript::-1::1706090288::0::1::::pickable<>RigidBody3D<>::
+::res://scripts/player/::1706090288
+player.gd::GDScript::-1::1706090288::0::1::::<>CharacterBody3D<>::
+::res://scripts/tables and cabinets/::1706090288
+cabinet.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+table_open.gd::GDScript::-1::1706090288::0::1::::<>Node3D<>::
+::res://test/::1706090288
+player.gd::GDScript::-1::1706090288::0::1::::<>Sprite2D<>::
+test.tscn::PackedScene::3566301953465693758::1706090288::0::1::::<><>::uid://dmr0fcamx7t56::::res://joystick/virtual_joystick.tscn<>uid://b4jy3cynf4voa::::res://icon.svg<>res://test/player.gd
