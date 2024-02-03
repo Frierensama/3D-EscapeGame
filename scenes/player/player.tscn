@@ -43,9 +43,11 @@ near = 0.005
 
 [node name="SpotLight3D" type="SpotLight3D" parent="head/Camera3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.39)
-light_energy = 2.0
-spot_range = 14.1774
-spot_angle = 30.9056
+distance_fade_begin = 19.0
+distance_fade_shadow = 24.7
+distance_fade_length = 8.4
+spot_range = 10.8733
+spot_angle = 49.8399
 
 [node name="reach" type="RayCast3D" parent="head/Camera3D"]
 target_position = Vector3(0, 0, -4)
