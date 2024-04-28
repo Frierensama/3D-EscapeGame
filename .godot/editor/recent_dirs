@@ -1,7 +1,10 @@
+C:/Users/smart/OneDrive/Documents/Godot_v4.2.2-stable_win64.exe
+C:/Program Files (x86)/Java/jre-1.8
+C:/Users/smart/AppData/Local/Android/Sdk
+C:/Users/smart/OneDrive/Documents/Godot_v4.2.2-stable_win64.exe/Project/3D-EscapeGame
 res://assets
 res://scripts
 res://scenes
-/home/bruce_wayne_23/Desktop/Apk Exports
 res://scenes/death_scene
 res://scripts/enemy_clown
 res://scenes/enemy
@@ -15,5 +18,3 @@ res://scenes/static objects/metal_rack
 res://scripts/cuboard_bedroom
 res://scenes/cuboard
 res://scenes/doors and windows
-/home/bruce_wayne_23/Desktop/Godot Files/FBX2glTF-linux-x86_64
-/home/bruce_wayne_23/Android/Sdk

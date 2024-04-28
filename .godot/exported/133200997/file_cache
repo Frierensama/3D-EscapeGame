@@ -1,37 +1,38 @@
-res://joystick/virtual_joystick.tscn::071a11f1996cf975b0d18e53adc37558::1702569532::res://.godot/exported/133200997/export-7c8949f8c4aebccbc8952e89cc58d938-virtual_joystick.scn
-res://scenes/doors and windows/door_circle.tscn::ed0316097bad5387dd7e76a02b594db3::1702803708::res://.godot/exported/133200997/export-70eaafbb92f82b26c910381744f1aec7-door_circle.scn
-res://scenes/doors and windows/gate.tscn::91e7c4df0fd321a08fbb9d7798df5e3d::1702729304::res://.godot/exported/133200997/export-ce155065680af0d285091fc237235662-gate.scn
-res://scenes/doors and windows/grid_gate.tscn::c555a8d358b012aaaf31d2dbd1cd4823::1702761368::res://.godot/exported/133200997/export-08cefd71dbb47f32d2c01c77c75402c7-grid_gate.scn
-res://scenes/doors and windows/norm_door_L.tscn::9073ba3d25015e1899cef7b9b6bcf122::1702803708::res://.godot/exported/133200997/export-9a03d1c627b393a2276b85929732fba5-norm_door_L.scn
-res://scenes/doors and windows/norm_door_r.tscn::fd795677a5224679a9b06d654a437974::1702803708::res://.godot/exported/133200997/export-ebd0e24f445fc1bf17ab227fa15ef6bf-norm_door_r.scn
-res://scenes/doors and windows/wardrobe.tscn::6759fb66cd212f22b7dfc57bf10efd9d::1702569532::res://.godot/exported/133200997/export-0158bf3130e97ddd459fab69b41a51ae-wardrobe.scn
-res://scenes/doors and windows/window.tscn::acf6aaa67a8a5dd31091efa2dc43255f::1702729294::res://.godot/exported/133200997/export-53b99970c81523b185f69dad320eef99-window.scn
-res://scenes/Main House/house.tscn::dec0966c8529fc5df740e17eafbe8489::1702827735::res://.godot/exported/133200997/export-bfb41f5af225c7d88670b0ec6a52726a-house.scn
-res://scenes/pickable_items/grid_key.tscn::c4d81b2b45333c420f58c9a68ffaf9fe::1702761368::res://.godot/exported/133200997/export-a55c4752c0c48ecfc69312035b357b4c-grid_key.scn
-res://scenes/pickable_items/hammer.tscn::1d8ce5cffb7437ea3a23325276ad7550::1702729220::res://.godot/exported/133200997/export-52e2e588527036903bc56e270cca266e-hammer.scn
-res://scenes/pickable_items/lock_pin.tscn::caa43212e691543b54d04ed44b79ed69::1702569532::res://.godot/exported/133200997/export-483b9ded303c8798761ce09fc46935b4-lock_pin.scn
-res://scenes/pickable_items/old_key.tscn::afdc8627405b25ecb8175a69dabc0718::1702569532::res://.godot/exported/133200997/export-e6331b0440046f3966956f8e67ab910c-old_key.scn
-res://scenes/player/player.tscn::b635908233e32a0863b3895f859a7647::1702827735::res://.godot/exported/133200997/export-c2c62cb8c73458cd122faf659769dc80-player.scn
-res://test/test.tscn::c25ad4f7bb5c7411a67a9a8d8f926d19::1702569532::res://.godot/exported/133200997/export-1955aacdc9602f33d69f33f7e8b9a131-test.scn
-res://default_env.tres::756de160834ef7cc033c2a79cd80f338::1702569532::res://.godot/exported/133200997/export-7cf3fd67ad9f55210191d77b582b8209-default_env.res
-res://scenes/cuboard/cuboard_bedroom-2.tscn::485c339ca943483a4ec43bc5973f5e34::1702729220::res://.godot/exported/133200997/export-c1c4193b754d80880eeec32852c25bac-cuboard_bedroom-2.scn
-res://scenes/cuboard/cuboard_bedroom.tscn::bf71e3022111a4e6445c64702c0a6c1c::1702729220::res://.godot/exported/133200997/export-d9dc87151e336a3375afbe3766b080c4-cuboard_bedroom.scn
-res://scenes/doors and windows/basement_door_gate-working.tscn::81e4b78aa414cbf112312daae91eb156::1702827736::res://.godot/exported/133200997/export-c1a5d5a9853f2428652bd0664d5b6413-basement_door_gate-working.scn
-res://scenes/doors and windows/basement_door_gate.tscn::09e02045f2a274948b7920db6fef70df::1702729220::res://.godot/exported/133200997/export-678c3c91fe17cbda6beae36de5680777-basement_door_gate.scn
-res://scenes/doors and windows/door_gf.tscn::85415eb78b90ba93abc868437a936f10::1702803708::res://.godot/exported/133200997/export-ce5458573d9c998356d0b8a660f22676-door_gf.scn
-res://scenes/doors and windows/door_twoside.tscn::5234142e8d77dfb90bd66632403a07f8::1702803708::res://.godot/exported/133200997/export-632f4492a8cbd729ad8a205073fe0df3-door_twoside.scn
-res://scenes/main_door/main_door.tscn::1b014818906a9b6a5e3ef5311f4188ca::1702827735::res://.godot/exported/133200997/export-39963a11060baf215b1d92244c14f253-main_door.scn
-res://scenes/pickable_items/gf_base_door_key.tscn::33bd8f8a0fd10c02d872ed0c517abcdd::1702803708::res://.godot/exported/133200997/export-c41ac055efeef861eeac5b220d6e96ec-gf_base_door_key.scn
-res://scenes/pickable_items/monster_key.tscn::c599c6fe6f9de09a5b0b3e7612280d29::1702824076::res://.godot/exported/133200997/export-34ceb9b2b8c8067af0417c2c60929ee9-monster_key.scn
-res://scenes/ship/need_gear.tscn::836adc33c046b18598aec26e3279a658::1702781652::res://.godot/exported/133200997/export-83c8b305f01bced50dea58e94a57f03e-need_gear.scn
-res://scenes/ship/ship.tscn::b539db8e7f827256bf5f57be7bcf78f3::1702781652::res://.godot/exported/133200997/export-0cced35dd7319391427c4502f8de98f5-ship.scn
-res://scenes/static objects/metal_rack/static_body_3d.tscn::026df1e3f85ec51ec31e20a664396d88::1702761368::res://.godot/exported/133200997/export-9b2596962962ffdd568ca1a46151ec75-static_body_3d.scn
-res://scenes/static objects/sofa/sofa.tscn::2ecab8cafbcaa3704740fb62de0901ea::1702734468::res://.godot/exported/133200997/export-1701725b4586642ce456dc3fad6e1c6e-sofa.scn
-res://scenes/static objects/sofa/tv.tscn::4c759e0aeef612fb28b03f423455c85c::1702761368::res://.godot/exported/133200997/export-5c5a95fa4b8715554e8307013ae76a6f-tv.scn
-res://scenes/death_scene/death_scene.tscn::6b8ae78667d8fc84153234c56fffd06a::1702827736::res://.godot/exported/133200997/export-17f787a73643103b382d47a8c4a9ecbc-death_scene.scn
-res://scenes/enemy/robert_clown.tscn::69501ef71881e645b4c3fc5ba46d9ddc::1702827736::res://.godot/exported/133200997/export-7f5278edfcb073a0f8d18215739e6e63-robert_clown.scn
-res://scenes/Main House/house-2.tscn::89835d72c069c7e55e1f90669522731e::1702827737::res://.godot/exported/133200997/export-0f962f01e57e2c788e6f53faf3b8d9f8-house-2.scn
-res://scenes/mainmenu.tscn::0992fced2c83b1fbf5c6d2b0ce635c13::1702827735::res://.godot/exported/133200997/export-1a75c62674f0e88c69acf03f4897b8b1-mainmenu.scn
-res://scenes/pausemenu.tscn::037a0f294bd7c553569b1e18e5caf3a3::1702827735::res://.godot/exported/133200997/export-920868d7d876157d009c65c9d122c5a6-pausemenu.scn
-res://scenes/load_game_menu.tscn::fc104e71269bb04e64254b4f8423d6c4::1702827737::res://.godot/exported/133200997/export-7ee6cfeaa89798580bbd306adda76898-load_game_menu.scn
-res://default_bus_layout.tres::5639423c48b4eafdd4692fe126d44c06::1702803020::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://joystick/virtual_joystick.tscn::2f05e666d63f944fe500c6585fec03e6::1714315200::res://.godot/exported/133200997/export-7c8949f8c4aebccbc8952e89cc58d938-virtual_joystick.scn
+res://scenes/doors and windows/door_circle.tscn::d196aee5bab6f935419442d9b06a8b64::1714315201::res://.godot/exported/133200997/export-70eaafbb92f82b26c910381744f1aec7-door_circle.scn
+res://scenes/doors and windows/gate.tscn::fb02dea49f3d62514174411bbc32cb75::1714315201::res://.godot/exported/133200997/export-ce155065680af0d285091fc237235662-gate.scn
+res://scenes/doors and windows/grid_gate.tscn::6de11cb08206ee233ccf9aaf594d51bc::1714315201::res://.godot/exported/133200997/export-08cefd71dbb47f32d2c01c77c75402c7-grid_gate.scn
+res://scenes/doors and windows/norm_door_L.tscn::725fd0621c3529ec4f39510f4f77e8a3::1714315201::res://.godot/exported/133200997/export-9a03d1c627b393a2276b85929732fba5-norm_door_L.scn
+res://scenes/doors and windows/norm_door_r.tscn::5ba8c1f2025a4d8a2dc6c286a718e932::1714315201::res://.godot/exported/133200997/export-ebd0e24f445fc1bf17ab227fa15ef6bf-norm_door_r.scn
+res://scenes/doors and windows/wardrobe.tscn::154bbafa3dc04d8b7f1bd1f9f79cfabf::1714315201::res://.godot/exported/133200997/export-0158bf3130e97ddd459fab69b41a51ae-wardrobe.scn
+res://scenes/doors and windows/window.tscn::19fa3285f9400d613404d28e6b8f36d4::1714315201::res://.godot/exported/133200997/export-53b99970c81523b185f69dad320eef99-window.scn
+res://scenes/Main House/house.tscn::80bc7a683da0e5efcc8b68f1478caf91::1714317844::res://.godot/exported/133200997/export-bfb41f5af225c7d88670b0ec6a52726a-house.scn
+res://scenes/pickable_items/grid_key.tscn::4dfbb216ce6808aeed9b73cf5c97adc1::1714315201::res://.godot/exported/133200997/export-a55c4752c0c48ecfc69312035b357b4c-grid_key.scn
+res://scenes/pickable_items/hammer.tscn::372f1eacadf128a347f3c86b7dccc3e6::1714315201::res://.godot/exported/133200997/export-52e2e588527036903bc56e270cca266e-hammer.scn
+res://scenes/pickable_items/lock_pin.tscn::3e3dceda41da06a3645a94ac8ed753c5::1714315201::res://.godot/exported/133200997/export-483b9ded303c8798761ce09fc46935b4-lock_pin.scn
+res://scenes/pickable_items/old_key.tscn::e1a5bc091ae1a97d8c980abf5a6c1f5e::1714315201::res://.godot/exported/133200997/export-e6331b0440046f3966956f8e67ab910c-old_key.scn
+res://scenes/player/player.tscn::3cae6cff32442cff9f300f8da5d159d9::1714315429::res://.godot/exported/133200997/export-c2c62cb8c73458cd122faf659769dc80-player.scn
+res://test/test.tscn::5cc5721a803aa9c98f72c9e402c68788::1714315201::res://.godot/exported/133200997/export-1955aacdc9602f33d69f33f7e8b9a131-test.scn
+res://default_env.tres::afbed0c9e6032587f1165ae47e7b3166::1714315200::res://.godot/exported/133200997/export-7cf3fd67ad9f55210191d77b582b8209-default_env.res
+res://scenes/cuboard/cuboard_bedroom-2.tscn::d47033dc46954629eec7b10a9a9854f5::1714315201::res://.godot/exported/133200997/export-c1c4193b754d80880eeec32852c25bac-cuboard_bedroom-2.scn
+res://scenes/cuboard/cuboard_bedroom.tscn::595526288be6d35d9e0a5fcdc0d1e169::1714315201::res://.godot/exported/133200997/export-d9dc87151e336a3375afbe3766b080c4-cuboard_bedroom.scn
+res://scenes/doors and windows/basement_door_gate-working.tscn::aaf38512271b1616db95154d76e66d9d::1714315201::res://.godot/exported/133200997/export-c1a5d5a9853f2428652bd0664d5b6413-basement_door_gate-working.scn
+res://scenes/doors and windows/basement_door_gate.tscn::b8d8870eed3837504d3e3439556615ec::1714315201::res://.godot/exported/133200997/export-678c3c91fe17cbda6beae36de5680777-basement_door_gate.scn
+res://scenes/doors and windows/door_gf.tscn::df3a64004bfea51f1d26a98c143654f8::1714315201::res://.godot/exported/133200997/export-ce5458573d9c998356d0b8a660f22676-door_gf.scn
+res://scenes/doors and windows/door_twoside.tscn::ec0f8e1a6d98f21cf01a90ac924abe5b::1714315201::res://.godot/exported/133200997/export-632f4492a8cbd729ad8a205073fe0df3-door_twoside.scn
+res://scenes/main_door/main_door.tscn::c7f99a8da40ebeec7bf00193d8a87bbc::1714315429::res://.godot/exported/133200997/export-39963a11060baf215b1d92244c14f253-main_door.scn
+res://scenes/pickable_items/gf_base_door_key.tscn::9127e266c635436c2ba2a762dffb0574::1714315201::res://.godot/exported/133200997/export-c41ac055efeef861eeac5b220d6e96ec-gf_base_door_key.scn
+res://scenes/pickable_items/monster_key.tscn::34aeca099bf42bfcbdeb2c2a3c3a4507::1714315201::res://.godot/exported/133200997/export-34ceb9b2b8c8067af0417c2c60929ee9-monster_key.scn
+res://scenes/ship/need_gear.tscn::2e8861c7e5acbcba7592588229555d64::1714315201::res://.godot/exported/133200997/export-83c8b305f01bced50dea58e94a57f03e-need_gear.scn
+res://scenes/ship/ship.tscn::76dc14c89dfd5360ee496056672d3d10::1714315201::res://.godot/exported/133200997/export-0cced35dd7319391427c4502f8de98f5-ship.scn
+res://scenes/static objects/metal_rack/static_body_3d.tscn::1e1d470b1731df4dbd1a56be721c622c::1714315201::res://.godot/exported/133200997/export-9b2596962962ffdd568ca1a46151ec75-static_body_3d.scn
+res://scenes/static objects/sofa/sofa.tscn::0e20767614af79867866aae874ff47cb::1714315201::res://.godot/exported/133200997/export-1701725b4586642ce456dc3fad6e1c6e-sofa.scn
+res://scenes/static objects/sofa/tv.tscn::f51dbac3b5f11c3d310719c2c039c611::1714315201::res://.godot/exported/133200997/export-5c5a95fa4b8715554e8307013ae76a6f-tv.scn
+res://scenes/death_scene/death_scene.tscn::6b8ae78667d8fc84153234c56fffd06a::1714315431::res://.godot/exported/133200997/export-17f787a73643103b382d47a8c4a9ecbc-death_scene.scn
+res://scenes/enemy/robert_clown.tscn::65e80a586a58bf3420de62a9dadd820c::1714315430::res://.godot/exported/133200997/export-7f5278edfcb073a0f8d18215739e6e63-robert_clown.scn
+res://scenes/Main House/house-2.tscn::f3ab44336bb5c4cec77b5c8a4fb5a084::1714315434::res://.godot/exported/133200997/export-0f962f01e57e2c788e6f53faf3b8d9f8-house-2.scn
+res://scenes/mainmenu.tscn::cd63dc77f1aa537b6f226bd0f38b24d0::1714315430::res://.godot/exported/133200997/export-1a75c62674f0e88c69acf03f4897b8b1-mainmenu.scn
+res://scenes/pausemenu.tscn::037a0f294bd7c553569b1e18e5caf3a3::1714315430::res://.godot/exported/133200997/export-920868d7d876157d009c65c9d122c5a6-pausemenu.scn
+res://scenes/load_game_menu.tscn::fc104e71269bb04e64254b4f8423d6c4::1714315434::res://.godot/exported/133200997/export-7ee6cfeaa89798580bbd306adda76898-load_game_menu.scn
+res://default_bus_layout.tres::fbf4bca1336a65bc2318fc12762d9168::1714315200::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://scenes/game_over.tscn::5c28ee888cb1b401ca07cc818fa7fd99::1714315435::res://.godot/exported/133200997/export-21b8bee24a2bf9e9929bc898cc82b612-game_over.scn
