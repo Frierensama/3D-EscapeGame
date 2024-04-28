@@ -2083,9 +2083,6 @@ shape = SubResource("CapsuleShape3D_mg23c")
 path_height_offset = 0.15
 
 [node name="AnimationTree" type="AnimationTree" parent="."]
-libraries = {
-"": SubResource("AnimationLibrary_wb4xk")
-}
 tree_root = SubResource("AnimationNodeStateMachine_kvpns")
 anim_player = NodePath("../AnimationPlayer")
 parameters/conditions/attack = false

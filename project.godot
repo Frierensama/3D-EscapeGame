@@ -10,10 +10,14 @@ config_version=5
 
 [application]
 
-config/name="Open Project"
+config/name="GameProject-002"
+config/version="0.0.2"
 run/main_scene="res://scenes/mainmenu.tscn"
+run/disable_stdout=true
+run/disable_stderr=true
 config/features=PackedStringArray("4.2", "Mobile")
 boot_splash/bg_color=Color(0, 0, 0, 1)
+config/icon="res://assets/stare_logo.png"
 
 [display]
 
