@@ -39,7 +39,7 @@
 ![IMG_202405122_141430016](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/92dc4599-135e-428b-82c0-761d589ec7f3)
 <BR><BR>
 
-<B>EVIL GUY WHO KIDNAPPED THE PLAYER :-<B>
+<B>EVIL GUY WHO CHASE THE PLAYER :-<B>
 ![IMG_202405122_141441973](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/5e20fb9e-be67-4728-a6a8-da2c35ab4029)
 <BR><BR>
 <B>IF ENEMY CATCHES THE PLAYER :-<B>
