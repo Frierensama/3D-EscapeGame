@@ -50,5 +50,5 @@
 <br><br><br>
 <b><font size="30">GAME SPEEDRUN<font></b>
 <br><B><font size="10"> 1. ESCAPE ROUTE 1 | MAIN DOOR :- https://youtu.be/r0xmwOlA5Co/ <i>(please dont mind the recording quality)</i></B>
-<br><B><font size="10"> 2. ESCAPE ROUTE 2 | BOAT :- <font></B>
-<br><B><font size="10"> 3. ESCAPE ROUTE 3 | CAR  :- <font></B>
+<br><B><font size="10"> 2. ESCAPE ROUTE 2 | BOAT :- <i> (development in progress)</i><font></B>
+<br><B><font size="10"> 3. ESCAPE ROUTE 3 | CAR   :- <i> (development in progress)</i><font></B>
