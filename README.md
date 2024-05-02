@@ -27,29 +27,28 @@
 <br>![Screenshot (5)](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/3276e146-9182-40d4-a03d-4cae5dfecf8a)
 
 
-<br><br>
+<br><br><br>
 
 <B><font size="20"> ENTIRE HOUSE PLAN VIDEO :-<br> https://youtu.be/LOiSmh8Jqrg</font> <br><br><i>(please dont mind the recording quality)</i></B>
-<BR><BR><BR><BR><BR>
+<br><br><br>
 <B>PLAYER INTERACTION WITH ENVIRONMENT(like doors ,locks ,fence ..)  :-<B>
 <br>![IMG_202405122_141438190](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/745911be-0dff-4d97-a6d5-69f532b33e2c)
-<br><br>
+<br><br><br>
 
 <B>PLAYER INTERACTION WITH PICKUP-ABLE OBJECTS :-<B>
 <br>![IMG_202405122_141430016](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/92dc4599-135e-428b-82c0-761d589ec7f3)
-<BR><BR>
+<br><br><br>
 
 <B>EVIL GUY WHO CHASE THE PLAYER :-<B>
 <br>![IMG_202405122_141441973](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/5e20fb9e-be67-4728-a6a8-da2c35ab4029)
-<BR><BR>
+<br><br><br>
 <B>IF ENEMY CATCHES THE PLAYER :-<B>
 <br>![IMG_202405122_141445194](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/9af160f3-def8-4204-8322-9face8e4999a)
-<BR><BR>
+<br><br><br>
 <B>PLAYER ESCAPED THE HOUSE END SCREEN :-<B>
 <br>![IMG_202405122_141448428](https://github.com/Frierensama/3D-EscapeGame/assets/136024482/bb4fcacd-2b47-41b0-8d4f-88d650a275ef)
-
-<BR><BR><BR>
+<br><br><br>
 <b><font size="30">GAME SPEEDRUN<font></b>
-<br><B><font size="10"> 1. ESCAPE ROUTE 1 | MAIN DOOR :- (please dont mind the quality, this is the maximum output my system can achieve) https://youtu.be/r0xmwOlA5Co<font></B>
+<br><B><font size="10"> 1. ESCAPE ROUTE 1 | MAIN DOOR :- https://youtu.be/r0xmwOlA5Co/ <i>(please dont mind the recording quality)</i></B>
 <br><B><font size="10"> 2. ESCAPE ROUTE 2 | BOAT :- <font></B>
 <br><B><font size="10"> 3. ESCAPE ROUTE 3 | CAR  :- <font></B>
